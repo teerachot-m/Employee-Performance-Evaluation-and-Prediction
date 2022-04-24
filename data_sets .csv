@@ -1,0 +1,1054 @@
+﻿emp_class,gender,department,sub_division,gspecial,jobtitle,rank,servstatus,age,expyears,mstatue,nkids,salary,degree,performance
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,61,22,โสด,1,12500,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Administration,Administration,Supervisor - F&B Admin,7,พ้นสภาพ,44,22,โสด,0,36534,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Banquet - Support,Banquet - Support,Manager - Banquet Supporting,5,ปัจจุบัน,46,22,โสด,0,46746,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Store,Store,Chief Store,6,พ้นสภาพ,59,22,โสด,0,61145,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,พ้นสภาพ,53,21,โสด,0,11000,,C
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Administration,Administration,Assistant Manager - F&B Catering,5,ปัจจุบัน,43,21,แต่งงาน,2,60137,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Assistant Manager - Steward,6,ปัจจุบัน,46,21,โสด,0,38678,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Operation Support (M&E),Operation Support (M&E),Supervisor - Operation Support M&E,7,ปัจจุบัน,52,21,โสด,1,25120,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Operations (Department),Service Operation,Service Operation,Manager - Service Operation,5,ปัจจุบัน,44,21,โสด,0,55218,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Operation Support (M&E),Operation Support (M&E),Supervisor ( The Portal ),7,ปัจจุบัน,48,21,แต่งงาน,0,30900,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Manager - Banquet,5,ปัจจุบัน,41,21,โสด,0,49083,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Set Up,Set Up,Set up Officer,9,พ้นสภาพ,50,21,โสด,2,12500,,B
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Housekeeping Attendant,10,พ้นสภาพ,57,21,โสด,1,12000,,B
+ผู้จัดการ,เพศหญิง,Special Project (Department),Special Project,Special Project,Senior Manager - Special Project,4,ปัจจุบัน,45,21,โสด,0,77913,,A
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Sales Administration,Sales Administration,Manager - Administrative,5,ปัจจุบัน,46,21,โสด,0,54096,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Corporate Human Resources (Department),COE Center,COE Center,HR General Affairs Supervisor,7,ปัจจุบัน,45,21,โสด,1,45952,ปริญญาตรี,D
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Exhibition (Local) - Reactive,Exhibition (Local) - Reactive,Manager - Sales,5,พ้นสภาพ,49,21,โสด,0,52132,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Supervisor - Steward,8,ปัจจุบัน,45,21,โสด,2,32078,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Management FM (Department),Management FM,Management FM,Manager - General Administrative,5,ปัจจุบัน,46,21,โสด,0,58533,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Proactive),Corporate & Media (Proactive),Manager - Sales,5,ปัจจุบัน,48,19,แต่งงาน,2,49994,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team,Senior Manager - Project,4,ปัจจุบัน,55,22,แต่งงาน,1,92031,,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Service Staff,10,ปัจจุบัน,51,21,โสด,2,19234,,C
+พนักงาน,เพศชาย,Kitchen (Department),Chef Office,Chef Office,Driver,11,พ้นสภาพ,60,21,โสด,3,15267,,D
+ผู้จัดการ,เพศหญิง,Corporate Communications (Department),Creative & Graphic Design,Creative & Graphic Design,Project Coordinator,5,พ้นสภาพ,58,22,โสด,0,46000,ปริญญาตรี,D
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),International Exhibition & Convention (Pro),International Exhibition & Convention (Pro),Senior Manager - Sales,4,ปัจจุบัน,51,21,โสด,0,75728,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,56,21,แต่งงาน,2,37080,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Project Management (Department),Cost Control,Cost Control,Senior Manager - Cost Control,4,ปัจจุบัน,54,22,โสด,1,90515,,B
+พนักงาน,เพศชาย,Management Office (Department),Reception & Operator,Reception & Operator,Driver,10,ปัจจุบัน,48,22,โสด,2,35846,,A
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Assistant F&B Cost Controller,6,ปัจจุบัน,50,20,โสด,0,50894,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Cleaner,11,พ้นสภาพ,57,21,โสด,2,11550,,B
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Government (Proactive),Government (Proactive),Manager - Sales,5,ปัจจุบัน,40,20,โสด,0,53291,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Demi Chef,8,ปัจจุบัน,56,20,โสด,2,22891,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,พ้นสภาพ,58,20,แต่งงาน,1,35700,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Assistant Manager - Steward,6,ปัจจุบัน,40,20,แต่งงาน,0,33600,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Facility Management & IT (Department),Document Control,Document Control,Manager - Document Control,5,ปัจจุบัน,48,20,โสด,0,46668,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Finance,Finance,Assistant General Cashier,7,ปัจจุบัน,47,20,โสด,0,38233,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Receiving,Receiving,Supervisor - Receiving,8,ปัจจุบัน,50,20,โสด,0,28537,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Proactive),Corporate & Media (Proactive),Manager - Sales,5,ปัจจุบัน,52,20,โสด,1,54157,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Assistant Manager City Traffic and Security,6,ปัจจุบัน,49,20,โสด,2,42036,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),Drawing,Drawing,Assistant Manager - Drawing,6,ปัจจุบัน,48,20,โสด,0,37204,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Project Management (Department),Construction,Construction,General Foreman,7,ปัจจุบัน,50,20,โสด,1,28119,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Demi Chef,8,พ้นสภาพ,46,19,โสด,0,15000,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Cosmo Bazaar,Cosmo Bazaar,Assistant Manager - M&E (Cosmo Bazaar),6,ปัจจุบัน,41,19,โสด,0,35020,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Facility Management & IT (Department),Operation Support (M&E),Operation Support (M&E),Manager - Operation Support M&E,5,ปัจจุบัน,43,19,แต่งงาน,0,52236,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Food Inspector I,7,พ้นสภาพ,44,19,โสด,0,30151,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Assistant Chief - Steward,6,ปัจจุบัน,40,19,โสด,2,40959,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Facility Management & IT (Department),Facility Building,Facility Building,Senior Manager - Facility Building,4,ปัจจุบัน,59,19,แต่งงาน,3,84275,,B
+ผู้จัดการ,เพศหญิง,Operations (Department),Service Operation,Service Operation,Manager - Service Operation,5,พ้นสภาพ,41,19,โสด,0,48069,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Junior Sous Chef,6,ปัจจุบัน,55,19,หม้าย,1,32592,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Food Inspector I,7,พ้นสภาพ,55,19,โสด,1,27443,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Food & Beverage (Department),Catering,Catering,Manager - Catering,5,พ้นสภาพ,61,18,โสด,0,60589,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,พ้นสภาพ,56,16,โสด,0,14800,,D
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,พ้นสภาพ,41,16,โสด,0,16863,,D
+หัวหน้างาน,เพศชาย,Operations (Department),Data Center and Store,Data Center and Store,Assistant Manager - Store,6,ปัจจุบัน,42,18,โสด,0,41146,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,37,18,โสด,2,27685,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Supervisor Building,8,ปัจจุบัน,43,18,โสด,0,24075,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Manorah - Service,Manorah - Service,Assistant Manager,7,ปัจจุบัน,47,18,โสด,2,22220,ปริญญาตรี,D
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),F&B Training & QA,F&B Training & QA,Manager - FB Training QA,5,พ้นสภาพ,50,18,โสด,0,41096,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,54,18,โสด,1,18968,,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Budget & Report,Budget & Report,Assistant Manager - Budget & Report,6,ปัจจุบัน,45,18,โสด,0,38399,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Linen Attendant,11,พ้นสภาพ,57,18,โสด,0,12484,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Car Park3),Cashier (Car Park3),Cashier (Car Park),10,พ้นสภาพ,52,18,โสด,0,16644,,C
+หัวหน้างาน,เพศชาย,Corporate Human Resources (Department),Casual Management,Casual Management,Assistant Manager - Casual Management,6,พ้นสภาพ,47,18,โสด,0,47007,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis I,9,ปัจจุบัน,47,18,โสด,0,19812,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,54,18,โสด,0,16408,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Support,Banquet - Support,Assistant Manager - Florist,6,ปัจจุบัน,55,18,โสด,0,43557,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Support,Banquet - Support,Florist Attendant,10,ปัจจุบัน,41,18,โสด,0,19082,,B
+ผู้จัดการ,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Executive Chinese Sous Chef,4,ปัจจุบัน,49,18,แต่งงาน,2,85291,,A
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Operation Support (M&E),Operation Support (M&E),Supervisor - Operation Support M&E,7,ปัจจุบัน,41,18,โสด,0,17878,ปริญญาตรี,D
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Steward,Steward,Manager - Steward,5,ปัจจุบัน,52,18,โสด,1,43260,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Linen Attendant,11,พ้นสภาพ,56,18,โสด,0,12484,,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,53,18,โสด,0,17394,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Supervisor - Cashier,8,ปัจจุบัน,42,18,โสด,1,29199,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Kitchen,Terrazza - Kitchen,Commis III,10,พ้นสภาพ,43,18,โสด,0,16273,,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Assistant Manager - Banquet,6,ปัจจุบัน,45,18,แต่งงาน,3,35280,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chinese Chef,5,ปัจจุบัน,46,18,โสด,0,49345,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Assistant Manager - Catering,6,ปัจจุบัน,39,18,โสด,0,35974,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Sales and Marketing (Department),Sales Administration,Sales Administration,Assistant Manager - Database Management System,6,ปัจจุบัน,39,18,โสด,0,41687,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Management Office (Department),Chairman Office,Chairman Office,Secretary to Chairman,8,พ้นสภาพ,40,18,โสด,0,45449,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,พ้นสภาพ,43,18,โสด,2,27947,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Chef de Partie,7,ปัจจุบัน,55,18,โสด,0,25538,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Manager - Banquet,5,ปัจจุบัน,58,17,โสด,1,44940,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Set up,7,ปัจจุบัน,43,17,โสด,0,24745,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Supervisor - Cashier,8,ปัจจุบัน,45,17,หย่า,0,31207,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Beverage,Beverage,Manager - Fast Food,5,ปัจจุบัน,54,17,แต่งงาน,1,44940,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,พ้นสภาพ,46,17,โสด,0,23340,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Chinese Chef,5,ปัจจุบัน,59,17,โสด,2,56007,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,59,17,แต่งงาน,2,35310,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Chief Cashier,6,ปัจจุบัน,46,17,โสด,0,51267,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Assistant Manager - Housekeeping,6,ปัจจุบัน,43,17,แต่งงาน,2,33990,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Set up,7,ปัจจุบัน,42,17,โสด,0,25725,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Service Staff,10,ปัจจุบัน,51,17,แต่งงาน,1,19530,,B
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Set up,7,ปัจจุบัน,54,17,โสด,0,25235,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,55,17,โสด,0,12500,,B
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Assistant Manager - Restaurant,7,ปัจจุบัน,38,17,โสด,0,23594,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Credit Control,Credit Control,Assistant Credit Controller,7,พ้นสภาพ,50,17,โสด,0,34174,ปริญญาตรี,A
+ผู้จัดการ,เพศชาย,Corporate Communications (Department),Photo media & Visual,Photo media & Visual,Senior Manager - Creative Visual Art,4,ปัจจุบัน,45,17,โสด,0,70000,,C
+หัวหน้างาน,เพศชาย,Exhibition Project (Department),Trade Team,Trade A Center,Graphic Designer,7,พ้นสภาพ,44,17,แต่งงาน,0,33600,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,City Management (Department),City Traffic,City Traffic,City Traffic Supervisor (Impact Area),7,พ้นสภาพ,53,17,แต่งงาน,0,22125,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Kitchen,Terrazza - Kitchen,Commis III,11,ปัจจุบัน,51,17,โสด,0,15706,,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Finance,Finance,General Cashier,6,ปัจจุบัน,43,17,โสด,0,48673,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team,Senior Sales Coordinator,8,ปัจจุบัน,48,22,โสด,0,30066,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Service Staff,10,พ้นสภาพ,56,17,โสด,3,11000,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Senior Building Technician,8,พ้นสภาพ,48,17,โสด,0,21370,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,44,17,โสด,0,17221,,C
+ผู้จัดการ,เพศหญิง,Real Estate (Department),Real Estate Leasing,Real Estate Leasing,Manager - Leasing,5,ปัจจุบัน,42,17,โสด,0,62843,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Assistant Manager - Banquet,6,ปัจจุบัน,36,17,โสด,0,32524,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),International Exhibition & Convention (Rea),International Exhibition & Convention (Rea),Sales Manager,5,พ้นสภาพ,40,17,แต่งงาน,0,52430,ปริญญาตรี,A
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Commis I,9,พ้นสภาพ,55,17,โสด,0,20639,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Dim Sum III,8,ปัจจุบัน,53,17,โสด,0,22495,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Food & Beverage (Department),Administration,Administration,Manager - F&B Operation,4,ปัจจุบัน,48,16,โสด,1,73049,,B
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Terrazza - Kitchen,Terrazza - Kitchen,Assistant Manager - Restaurant,7,พ้นสภาพ,48,17,โสด,0,25401,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Manager - Accounting,5,ปัจจุบัน,49,16,แต่งงาน,0,82991,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Assistant Manager - Banquet,6,ปัจจุบัน,46,16,โสด,1,38684,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Supervisor - Mechanical & Electrical (M&E),7,ปัจจุบัน,41,16,แต่งงาน,0,23153,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Manager - Housekeeping,5,พ้นสภาพ,53,16,โสด,2,50558,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Manager - Engineering (Kitchen & Mechanic),5,ปัจจุบัน,48,16,โสด,0,53663,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Manager - Housekeeping,5,พ้นสภาพ,60,16,โสด,1,53771,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Supervisor - Housekeeping,8,ปัจจุบัน,52,16,แต่งงาน,0,23594,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Exhibition (Local) - Proactive,Exhibition (Local) - Proactive,Manager - Sales,5,ปัจจุบัน,40,16,แต่งงาน,0,50614,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chinese Chef,5,ปัจจุบัน,41,16,โสด,1,45449,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Supervisor - Cashier,8,ปัจจุบัน,40,16,แต่งงาน,0,24794,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Assistant Manager - Loss Prevention,6,พ้นสภาพ,55,16,โสด,3,40445,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Food & Beverage (Department),Catering,Catering,Manager - Catering,5,ปัจจุบัน,44,16,โสด,1,47316,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team A,Manager - Project,5,ปัจจุบัน,46,16,โสด,0,56565,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Finance,Finance,Assistant General Cashier,7,ปัจจุบัน,41,16,แต่งงาน,0,39338,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Chef de Partie,7,พ้นสภาพ,56,16,โสด,0,20223,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Supervisor - Cashier,8,ปัจจุบัน,39,16,โสด,0,30377,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Credit Control,Credit Control,Assistant Credit Controller,7,ปัจจุบัน,46,16,โสด,0,34174,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Terrazza - Service,Terrazza - Service,Assistant Manager - Restaurant,7,ปัจจุบัน,36,16,แต่งงาน,2,22279,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Thong Lor Thai Cuisine (Department),Thonglor Thai Cuisine,Thonglor Thai Cuisine,Assistant Manager - Restaurant,7,พ้นสภาพ,52,16,โสด,0,22279,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Assistant Manager - Banquet,6,ปัจจุบัน,50,16,โสด,2,39319,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Supervisor - Network and Helpdesk,7,ปัจจุบัน,55,16,หย่า,4,30194,ปริญญาตรี,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Bistro - Kitchen,Bistro - Kitchen,Commis I,9,พ้นสภาพ,39,16,โสด,0,12000,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Assistant Chief Cashier,7,ปัจจุบัน,44,16,โสด,0,40001,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Accounting,Accounting,Checker,9,ปัจจุบัน,38,16,โสด,0,18160,,C
+ผู้จัดการ,เพศชาย,Management Office (Department),Management Office,Management Office,Manager,5,ปัจจุบัน,39,16,โสด,0,65066,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Restaurant Group (Department),Bistro - Kitchen,Bistro - Kitchen,Junior Sous Chef,7,พ้นสภาพ,57,16,โสด,0,32550,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Supervisor - Steward,7,ปัจจุบัน,40,16,โสด,0,29724,ปริญญาตรี,B
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Demi Chef,8,ปัจจุบัน,38,16,โสด,2,21462,ปริญญาตรี,C
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Chef de Partie,8,ปัจจุบัน,49,16,โสด,1,29431,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Proactive),Corporate & Media (Proactive),Manager - Sales,5,ปัจจุบัน,46,16,โสด,1,48695,ปริญญาตรี,D
+หัวหน้างาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Supervisor - Tenant Coordinator,7,ปัจจุบัน,42,16,โสด,1,24542,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Chef de Cuisine,4,ปัจจุบัน,57,15,โสด,0,57270,,B
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Chef de Partie,7,ปัจจุบัน,45,16,โสด,2,25841,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Catering Executive,7,ปัจจุบัน,34,15,โสด,1,29946,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,พ้นสภาพ,45,15,โสด,0,17675,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Support,Banquet - Support,Supervisor - F&B Art,7,พ้นสภาพ,46,15,โสด,0,30358,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,พ้นสภาพ,39,15,โสด,0,20117,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Supervisor - Cashier,8,ปัจจุบัน,41,15,แต่งงาน,0,27341,ปริญญาตรี,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Commis I,9,ปัจจุบัน,48,15,โสด,2,19475,,D
+พนักงาน,เพศหญิง,Operations (Department),Set Up,Set Up,Store Staff,9,พ้นสภาพ,57,15,โสด,0,13519,,C
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Linen Seamstress,9,ปัจจุบัน,53,15,โสด,0,15950,,D
+หัวหน้างาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Assistant Manager - Loss Prevention,6,พ้นสภาพ,58,15,โสด,3,30000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Chef de Partie,7,ปัจจุบัน,59,15,โสด,1,32191,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Finance,Finance,Assistant General Cashier,7,ปัจจุบัน,44,15,โสด,0,31414,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,พ้นสภาพ,47,15,โสด,0,17374,,D
+พนักงาน,เพศชาย,Operations (Department),Transportation,Transportation,Senior Driver,10,พ้นสภาพ,47,15,โสด,0,18586,,D
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Senior Service Staff,9,ปัจจุบัน,40,15,แต่งงาน,1,21630,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis I,9,ปัจจุบัน,44,15,โสด,1,23163,,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Finance,Finance,Bill Collector,9,พ้นสภาพ,44,15,โสด,2,19328,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Driver,7,พ้นสภาพ,56,15,โสด,1,22660,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Officer (Impact Area),8,พ้นสภาพ,56,15,โสด,1,18346,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Government (Reactive),Government (Reactive),Manager - Sales,5,ปัจจุบัน,39,15,โสด,0,51464,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Chef de Partie,8,ปัจจุบัน,59,15,แต่งงาน,1,25397,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Sous Chef,6,ปัจจุบัน,43,15,โสด,0,33132,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Proactive),Corporate & Media (Proactive),Assistant Manager - Sales,6,ปัจจุบัน,41,15,โสด,0,41733,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Corporate Communications (Department),Corporate adminstrative,Corporate adminstrative,Assistant Manager - Administrative,6,ปัจจุบัน,41,14,โสด,0,34067,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Administration,Administration,Supervisor - F&B Admin,7,ปัจจุบัน,40,14,แต่งงาน,0,31708,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Credit Control,Credit Control,Bill Collector,9,ปัจจุบัน,56,14,โสด,2,20664,,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Service Staff,10,ปัจจุบัน,52,14,โสด,1,19055,,A
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Chef de Partie,7,ปัจจุบัน,34,14,โสด,2,21418,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Junior Sous Chef,6,พ้นสภาพ,47,14,โสด,0,30000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,39,14,โสด,0,20352,ปริญญาตรี,D
+พนักงาน,เพศชาย,Procurement (Department),Procurement - Food,Procurement - Food,Senior Procurement Officer,8,ปัจจุบัน,33,14,โสด,0,26250,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Kitchen (Department),Ice Carving,Ice Carving,Ice Carving Chef,5,พ้นสภาพ,52,14,โสด,2,54818,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Government (Reactive),Government (Reactive),Assistant Manager - Sales,6,ปัจจุบัน,37,14,โสด,0,37750,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Demi Chef,8,ปัจจุบัน,45,14,โสด,1,22257,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Administration (FM),Administration (FM),Senior Officer - Administrative,8,ปัจจุบัน,37,14,โสด,0,20207,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Supervisor - Banquet,7,ปัจจุบัน,37,14,โสด,0,28208,ปริญญาตรี,A
+พนักงาน,เพศชาย,Management Office (Department),Reception & Operator,Reception & Operator,Driver,10,ปัจจุบัน,47,14,โสด,0,23017,,B
+ผู้จัดการ,เพศชาย,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Sous Chef,5,ปัจจุบัน,49,14,โสด,4,40139,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Supervisor - Cashier,8,พ้นสภาพ,50,14,หย่า,0,23690,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Restaurant Group (Department),Restaurant Group,Restaurant Group,Manager - Area,5,พ้นสภาพ,53,14,โสด,2,70844,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Operations (Department),VRM,VRM,Supervisor - Impact Member Card,7,พ้นสภาพ,35,13,โสด,0,23848,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Supervisor - VRM,7,ปัจจุบัน,37,13,โสด,0,28088,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),Jackie Seafood - Service,Jackie Seafood - Service,Manager - Restaurant,6,ปัจจุบัน,47,13,โสด,2,44183,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,35,13,โสด,0,26119,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Credit Control,Credit Control,Credit Controller,6,พ้นสภาพ,52,13,โสด,1,49609,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,43,13,โสด,0,30900,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Junior Sous Chef,6,ปัจจุบัน,32,13,แต่งงาน,1,30000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,พ้นสภาพ,46,13,โสด,0,28634,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Procurement Supervisor,7,ปัจจุบัน,41,13,โสด,0,31827,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,35,13,โสด,0,17640,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Project Management (Department),Cost Control,Cost Control,Drawing Control Specialist,7,ปัจจุบัน,40,13,โสด,0,35430,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Project Management (Department),Project Management,Project Management,Senior Officer,8,ปัจจุบัน,35,13,โสด,0,18962,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,38,13,โสด,0,29033,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis I,9,ปัจจุบัน,39,13,โสด,2,22912,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Coordinator Executive,7,ปัจจุบัน,37,13,โสด,0,31697,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,31,7,โสด,0,21045,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Junior Sous Chef,7,ปัจจุบัน,52,13,โสด,0,32550,ปริญญาตรี,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,47,13,โสด,0,21053,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Special Project (Department),Special Project,Special Project,Assistant Manager - Special Project,6,ปัจจุบัน,56,13,โสด,0,35280,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Demi Chef,8,พ้นสภาพ,52,13,โสด,0,15000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis I,9,พ้นสภาพ,46,13,โสด,1,12000,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Administration,Administration,Supervisor - F&B Admin,7,ปัจจุบัน,36,13,โสด,0,31894,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Secretary of Chinese Kitchen,7,ปัจจุบัน,38,13,แต่งงาน,0,21945,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Cost Controller,5,พ้นสภาพ,56,13,โสด,0,72291,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Administration,Administration,F&B Admin Officer,9,พ้นสภาพ,42,13,โสด,1,22568,,B
+หัวหน้างาน,เพศชาย,Exhibition Project (Department),Consumer Team,Consumer Team Center,Graphic Designer,7,พ้นสภาพ,51,13,โสด,0,26250,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Real Estate (Department),Real Estate Leasing,Real Estate Leasing,Senior Leasing Executive,7,ปัจจุบัน,38,13,แต่งงาน,1,34060,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Restaurant Group (Department),Restaurant Group,Restaurant Group,Chef de Cuisine,4,ปัจจุบัน,59,13,แต่งงาน,2,78001,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis I,9,พ้นสภาพ,61,13,โสด,0,12000,,C
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Chef de Partie,7,ปัจจุบัน,42,12,โสด,0,27510,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Assistant Manager - Service Operation,6,ปัจจุบัน,38,12,โสด,0,37044,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Supervisor - Admin,7,ปัจจุบัน,38,12,โสด,0,31080,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Manager - Procurement,5,ปัจจุบัน,42,12,โสด,0,76440,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Kitchen,Terrazza - Kitchen,Demi Chef,9,ปัจจุบัน,31,12,โสด,0,19396,,C
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),Document Control,Document Control,Supervisor - Document Control,7,ปัจจุบัน,46,12,โสด,0,24799,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Supervisor - Steward,7,ปัจจุบัน,38,12,โสด,2,30521,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Operations (Department),Data Center and Store,Data Center and Store,Senior Data Center Officer,8,ปัจจุบัน,35,12,โสด,0,26119,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Operations (Department),Service Operation,Service Operation,Manager - Service Operation,5,ปัจจุบัน,41,12,โสด,0,45203,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Set up,7,ปัจจุบัน,35,12,โสด,0,25235,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Service,Retro Bar Cafe' - Service,Supervisor,8,ปัจจุบัน,42,12,แต่งงาน,0,18035,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,BBQ Chef,6,ปัจจุบัน,37,12,โสด,1,38285,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Operations (Department),Service Operation,Service Operation,Manager - Service Operation,5,ปัจจุบัน,38,12,โสด,0,60500,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Secretary,8,พ้นสภาพ,35,12,โสด,0,17365,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Corporate Communications (Department),Corporate Public Relations,Corporate Public Relations,Manager - Public Relations,5,ปัจจุบัน,39,12,โสด,0,46000,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Sales and Marketing (Department),Corporate & Media,Corporate & Media,Manager - Sales,5,พ้นสภาพ,43,12,โสด,0,45000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Dim Sum Chef,6,ปัจจุบัน,49,12,แต่งงาน,2,41721,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Supervisor - Cashier,8,ปัจจุบัน,39,12,โสด,2,25519,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Kitchen,Retro Bar Cafe' - Kitchen,Commis I,9,ปัจจุบัน,49,12,โสด,0,17657,,C
+หัวหน้างาน,เพศชาย,Restaurant Group (Department),Restaurant Group,Restaurant Group,Supervisor - Restaurant Support,7,พ้นสภาพ,39,11,โสด,0,28492,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,พ้นสภาพ,35,11,โสด,0,27254,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,ปัจจุบัน,35,11,โสด,0,24401,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,F&B Driver Leader,8,ปัจจุบัน,52,11,โสด,0,20500,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Income Auditor,8,พ้นสภาพ,42,11,โสด,0,24504,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,30,11,โสด,0,27685,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Supervisor - Steward,7,ปัจจุบัน,50,11,โสด,0,25875,ปริญญาตรี,D
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis I,9,ปัจจุบัน,36,11,โสด,0,19829,,D
+หัวหน้างาน,เพศหญิง,Real Estate (Department),Real Estate Media,Real Estate Media,Assistant Manager - Media sales,6,พ้นสภาพ,39,11,โสด,0,32121,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Operations (Department),Set Up,Set Up,Manager - Set up,5,พ้นสภาพ,50,11,แต่งงาน,1,54796,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,31,11,แต่งงาน,0,24875,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,29,7,โสด,1,23100,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,40,11,โสด,0,15927,,B
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),International Exhibition & Convention (Rea),International Exhibition & Convention (Rea),Assistant Manager - Sales,6,ปัจจุบัน,38,11,โสด,0,37750,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Restaurant Group (Department),Retro Bar Cafe' - Service,Retro Bar Cafe' - Service,Assistant Manager - Pub,6,พ้นสภาพ,47,11,โสด,0,31892,ปริญญาตรี,C
+พนักงาน,เพศชาย,Management Office (Department),Reception & Operator,Reception & Operator,Driver,10,ปัจจุบัน,42,11,โสด,0,24011,,A
+พนักงาน,เพศชาย,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,40,11,โสด,0,19695,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,46,11,โสด,0,18703,,B
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),Administration (FM),Administration (FM),Supervisor - Administrative,7,ปัจจุบัน,34,11,โสด,0,25573,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Procurement Supervisor,7,ปัจจุบัน,41,11,โสด,0,30121,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Assistant Supervisor Kitchen Cleaner,9,พ้นสภาพ,55,11,โสด,1,12000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,46,11,โสด,1,20258,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,40,11,โสด,0,21115,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Banquet Captain,8,ปัจจุบัน,42,11,แต่งงาน,0,18025,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,ปัจจุบัน,34,10,แต่งงาน,1,16170,,B
+พนักงาน,เพศชาย,Operations (Department),Data Center and Store,Data Center and Store,Senior R&M Officer,8,ปัจจุบัน,50,10,โสด,0,17634,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Operations (Department),Data Center and Store,Data Center and Store,Senior Data Center Officer,8,ปัจจุบัน,41,10,โสด,0,17304,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Chef Office,Chef Office,Senior Driver,10,ปัจจุบัน,46,10,โสด,1,19158,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Demi Chef,8,ปัจจุบัน,44,10,โสด,0,21878,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Supervisor City Traffic and Security,7,ปัจจุบัน,41,10,แต่งงาน,2,21209,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis I,9,พ้นสภาพ,48,10,โสด,1,18755,,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Terrazza - Kitchen,Terrazza - Kitchen,Chef de Partie,8,พ้นสภาพ,34,10,โสด,0,23000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Wok III,8,ปัจจุบัน,30,10,โสด,0,26986,ปริญญาตรี,A
+พนักงาน,เพศชาย,Management Office (Department),Main Transport Center,Main Transport Center,Driver,10,พ้นสภาพ,51,10,โสด,0,13529,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Supervisor - Banquet,7,ปัจจุบัน,35,10,โสด,1,25612,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Car Park),Cashier (Car Park),Cashier (Outlet Card),9,พ้นสภาพ,38,10,โสด,0,17903,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,49,10,โสด,0,17714,,C
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Engineering,Engineering,Senior Officer - Document Control,8,พ้นสภาพ,33,10,โสด,0,18956,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,35,10,โสด,0,17304,ปริญญาตรี,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Demi Chef,9,ปัจจุบัน,27,10,โสด,0,17000,,C
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Sales and Marketing,Sales and Marketing,Assistant Manager - Sales,6,พ้นสภาพ,38,10,โสด,0,33290,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Support,Banquet - Support,Florist Leader,8,ปัจจุบัน,33,10,โสด,0,20500,ปริญญาตรี,D
+ผู้จัดการ,เพศหญิง,Real Estate (Department),Real Estate Media,Real Estate Media,Senior Manager - Media,4,พ้นสภาพ,46,10,โสด,0,44100,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team Center,Manager - Marketing,5,ปัจจุบัน,36,10,โสด,0,46305,ปริญญาตรี,B
+พนักงาน,เพศชาย,Management Office (Department),Management Office,Management Office,Supervisor,8,พ้นสภาพ,33,10,โสด,0,33138,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,พ้นสภาพ,48,10,โสด,0,22619,,C
+ผู้จัดการ,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Executive Housekeeper,4,ปัจจุบัน,56,10,โสด,0,145890,,B
+หัวหน้างาน,เพศชาย,Exhibition Project (Department),Trade Team,Trade A Center,Graphic Designer,7,พ้นสภาพ,38,10,แต่งงาน,1,26250,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Supervisor Account Payable,7,ปัจจุบัน,39,10,โสด,0,34240,ปริญญาตรี,A
+พนักงาน,เพศชาย,Food & Beverage (Department),Beverage (Service),Beverage (Service),Bar Captain,8,ปัจจุบัน,33,10,แต่งงาน,1,19873,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Procurement (Department),Administration,Administration,Senior Administrative Officer,8,ปัจจุบัน,40,10,แต่งงาน,0,21639,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Restaurant Group,Restaurant Group,Administrative Officer,9,ปัจจุบัน,41,10,โสด,0,18572,,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,32,10,โสด,0,21879,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,31,10,โสด,0,17640,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Kitchen,Retro Bar Cafe' - Kitchen,Commis II,10,ปัจจุบัน,46,10,โสด,0,14347,,C
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Senior Service Staff,9,ปัจจุบัน,48,10,แต่งงาน,3,16219,,C
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Supervisor - VRM,7,ปัจจุบัน,37,10,โสด,0,25927,ปริญญาตรี,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis II,10,ปัจจุบัน,33,10,โสด,0,16747,,A
+พนักงาน,เพศชาย,Corporate Human Resources (Department),Casual Management,Casual Management,Casual Management Executive,8,พ้นสภาพ,33,10,โสด,0,27363,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,58,10,โสด,0,15035,,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,42,9,โสด,0,15035,,B
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,ปัจจุบัน,35,10,โสด,0,27783,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Operations (Department),Data Center and Store,Data Center and Store,Manager - Data Center and Store,5,ปัจจุบัน,42,10,โสด,1,62209,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Media,Real Estate Media,Media Operation Executive,8,ปัจจุบัน,35,10,โสด,0,26450,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Administration (FM),Administration (FM),Senior Officer - Administrative,8,ปัจจุบัน,40,10,แต่งงาน,0,18421,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service(Fastfood),Banquet - Service(Fastfood),Banquet Captain,8,ปัจจุบัน,37,10,แต่งงาน,2,19950,ปริญญาตรี,B
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Wok III,8,ปัจจุบัน,38,10,โสด,0,23845,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Assistant Manager - Housekeeping,6,ปัจจุบัน,45,10,โสด,1,38850,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,59,10,โสด,0,33990,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Catering Executive,7,พ้นสภาพ,39,10,โสด,0,29211,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,ปัจจุบัน,35,10,โสด,0,25680,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Management Office (Department),Reception & Operator,Reception & Operator,Supervisor,8,ปัจจุบัน,40,10,โสด,0,25048,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Sous Chef,6,ปัจจุบัน,54,10,แต่งงาน,1,43195,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Car Park3),Cashier (Car Park3),Cashier (Car Park),10,พ้นสภาพ,45,10,หย่า,0,15640,,C
+หัวหน้างาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,Wok I,6,ปัจจุบัน,44,9,โสด,3,47794,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,36,10,โสด,0,17750,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Demi Chef,8,ปัจจุบัน,41,10,โสด,0,19453,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Account Payable,8,ปัจจุบัน,37,10,โสด,0,23686,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Supervisor City Traffic and Security,7,ปัจจุบัน,42,10,โสด,0,23793,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis I,9,พ้นสภาพ,49,10,โสด,0,12000,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,54,9,โสด,0,14971,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,พ้นสภาพ,49,9,โสด,1,11000,,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Supervisor Income Auditor,7,ปัจจุบัน,40,9,โสด,0,33600,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Corporate Human Resources (Department),People Development,People Development,People Development Executive,8,ปัจจุบัน,37,9,โสด,1,31973,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Assistant Manager - Service Operation,6,ปัจจุบัน,40,9,โสด,0,40425,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis II,10,ปัจจุบัน,39,9,โสด,0,15276,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,ปัจจุบัน,54,9,โสด,2,17034,,B
+ผู้จัดการ,เพศหญิง,Food & Beverage (Department),Catering,Catering,Manager - Catering,5,พ้นสภาพ,40,9,โสด,0,47316,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Supervisor - Cashier,8,ปัจจุบัน,38,9,โสด,0,18743,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Housekeeping Attendant,10,ปัจจุบัน,57,9,โสด,0,13917,,A
+หัวหน้างาน,เพศหญิง,Corporate Communications (Department),Leisure & Restaurant Public Relations,Leisure & Restaurant Public Relations,Public Relations Executive,7,ปัจจุบัน,41,9,โสด,0,36841,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Support,Banquet - Support,Florist Attendant,10,ปัจจุบัน,56,9,โสด,0,17733,,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Set up Officer,9,พ้นสภาพ,42,9,โสด,0,12500,,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,52,9,โสด,0,16974,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Human Resources (Department),HR Office,HR Office,Senior Manager - MSM/MBS,5,พ้นสภาพ,54,9,แต่งงาน,2,55000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,39,9,โสด,0,18959,,B
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,พ้นสภาพ,33,9,โสด,0,23690,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Assistant Manager - Catering,6,ปัจจุบัน,33,9,โสด,0,33031,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Sales and Marketing (Department),Exhibition (Local) - Proactive,Exhibition (Local) - Proactive,Assistant Manager - Sales,6,พ้นสภาพ,47,9,โสด,0,39389,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Corporate Human Resources (Department),Casual Management,Casual Management,Casual Management Support Supervisor,7,ปัจจุบัน,48,9,แต่งงาน,1,45569,ปริญญาตรี,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,32,9,โสด,0,21053,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Proactive),Corporate & Media (Proactive),Senior Manager - Sales,4,ปัจจุบัน,54,9,โสด,1,100000,,B
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,36,9,แต่งงาน,0,33600,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,ปัจจุบัน,46,9,แต่งงาน,2,17663,,C
+พนักงาน,เพศชาย,IT and Communication (Department),IT System and Media Support,IT System and Media Support,Officer - Network Support,9,พ้นสภาพ,38,9,โสด,0,18522,ปริญญาตรี,D
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,29,8,โสด,0,17325,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Chef de Partie,7,ปัจจุบัน,43,9,แต่งงาน,2,33763,ปริญญาตรี,A
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Chef de Partie,8,ปัจจุบัน,50,9,โสด,1,27080,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,BBQ I,7,ปัจจุบัน,29,8,โสด,1,17996,ปริญญาตรี,B
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),ISAN@ARENA - Kitchen,ISAN@ARENA - Kitchen,Commis I,9,ปัจจุบัน,46,9,โสด,0,16223,,C
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,28,7,โสด,0,14420,,C
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Wok I,6,ปัจจุบัน,45,9,โสด,0,29809,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Store,Store,Storekeeper,9,ปัจจุบัน,39,9,โสด,0,18402,,B
+พนักงาน,เพศหญิง,Operations (Department),Set Up,Set Up,Set up Officer,9,พ้นสภาพ,34,8,โสด,0,12500,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Commis I,9,ปัจจุบัน,31,9,โสด,0,15150,,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Florist Attendant,10,ปัจจุบัน,55,8,โสด,0,14882,,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Beverage (Service),Beverage (Service),Bar Waiter,9,ปัจจุบัน,37,9,โสด,0,16227,,C
+พนักงาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Audio Visual Operator,9,ปัจจุบัน,31,9,โสด,0,17531,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis III,11,ปัจจุบัน,27,9,โสด,1,13112,,D
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Cafe - Service,Hong Kong Cafe - Service,Supervisor,8,ปัจจุบัน,31,9,โสด,0,18000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Steward,11,ปัจจุบัน,54,9,โสด,0,12810,,C
+พนักงาน,เพศหญิง,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,36,9,โสด,0,22877,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Sales Administration,Sales Administration,Database Management System Executive,7,ปัจจุบัน,36,9,โสด,0,28665,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Assistant Manager - Service Operation,6,ปัจจุบัน,38,9,โสด,0,34178,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Set up Officer,8,ปัจจุบัน,43,8,แต่งงาน,0,17634,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,49,9,โสด,0,13778,,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,55,9,โสด,0,13776,,D
+พนักงาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,54,9,โสด,0,14829,,C
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Supervisor - Steward,7,ปัจจุบัน,44,9,หย่า,0,20600,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,43,9,โสด,0,15704,,A
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Assistant Manager - Catering,6,ปัจจุบัน,33,9,โสด,0,35000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Manorah - Service,Manorah - Service,Captain,9,ปัจจุบัน,28,9,แต่งงาน,1,15898,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,พ้นสภาพ,56,9,โสด,0,11550,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,ปัจจุบัน,32,9,โสด,0,22050,,B
+หัวหน้างาน,เพศหญิง,Procurement (Department),Procurement - Food,Procurement - Food,Procurement Supervisor,7,ปัจจุบัน,34,9,โสด,0,33000,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Senior Staff Landscape & Sanitation,10,ปัจจุบัน,53,9,โสด,0,20258,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,44,9,โสด,0,29870,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,ปัจจุบัน,39,9,แต่งงาน,2,13880,,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Chopper I,6,พ้นสภาพ,35,9,โสด,0,30000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Assistant Manager - Audio Visual,6,ปัจจุบัน,36,9,โสด,0,31500,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Sales and Marketing (Department),Government (Proactive),Government (Proactive),Assistant Manager - Government,6,ปัจจุบัน,35,9,โสด,0,36750,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,พ้นสภาพ,35,9,โสด,0,16701,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Jackie Seafood - Service,Jackie Seafood - Service,Captain,9,พ้นสภาพ,48,8,โสด,0,16375,,C
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,พ้นสภาพ,41,9,โสด,0,15705,,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,34,9,โสด,2,19838,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade A,Senior Executive - PR,7,พ้นสภาพ,36,9,แต่งงาน,0,35000,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade B Center,Graphic Designer,7,ปัจจุบัน,34,9,โสด,0,33600,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Cashier (Car Park),Cashier (Car Park),Cashier (Car Park),10,พ้นสภาพ,32,9,โสด,0,13323,ปริญญาตรี,D
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Dim Sum III,8,ปัจจุบัน,37,9,โสด,0,21258,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Wok III,8,ปัจจุบัน,50,9,หม้าย,0,23376,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Banquet Captain,8,ปัจจุบัน,46,9,หม้าย,3,19055,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,27,9,โสด,0,18849,ปริญญาตรี,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Bar Captain,9,ปัจจุบัน,27,9,โสด,0,15750,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Hostess,9,ปัจจุบัน,27,9,โสด,0,14420,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Supervisor - Receiving,8,ปัจจุบัน,38,9,โสด,0,22050,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Corporate Communications (Department),Creative & Graphic Design,Creative & Graphic Design,Senior Executive - Creative & Graphic Design,6,พ้นสภาพ,44,9,โสด,1,41778,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Beverage (Service),Beverage (Service),Bar Captain,8,ปัจจุบัน,29,9,โสด,1,20837,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Pastry Chef,4,ปัจจุบัน,45,9,แต่งงาน,5,75000,,A
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Hong Kong Suki - Service (Portal),Hong Kong Suki - Service (Portal),Assistant Manager - Restaurant,7,ปัจจุบัน,43,9,โสด,0,22660,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Cafe - Service,Hong Kong Cafe - Service,Server,10,พ้นสภาพ,42,9,โสด,0,11000,,C
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Sous Chef,6,ปัจจุบัน,44,9,โสด,0,36750,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Account,Account,Checker,9,ปัจจุบัน,32,9,โสด,0,15450,,C
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Commis I,9,ปัจจุบัน,41,9,โสด,2,22135,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,พ้นสภาพ,53,8,โสด,0,11550,,D
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,42,9,โสด,0,19838,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,34,9,แต่งงาน,1,20008,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,26,9,โสด,0,19474,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Account,Account,Accounting Officer,8,ปัจจุบัน,35,8,โสด,0,14281,ปริญญาตรี,D
+พนักงาน,เพศชาย,Finance & Accounting (Department),Credit Control,Credit Control,Data Entry,10,พ้นสภาพ,43,7,โสด,0,16550,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,45,8,โสด,0,30900,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,พ้นสภาพ,45,8,แต่งงาน,0,24401,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chopper I,6,ปัจจุบัน,51,8,โสด,1,33210,ปริญญาตรี,D
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Radio Control Officer,9,ปัจจุบัน,41,7,โสด,0,13105,,D
+พนักงาน,เพศหญิง,Management Office (Department),Corporate Affairs,Corporate Affairs,Senior Officer - Administrative,8,ปัจจุบัน,35,8,โสด,0,26355,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Area Control Officer,9,พ้นสภาพ,41,8,โสด,0,14482,,C
+ผู้จัดการ,เพศหญิง,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Manager - Shopping Mall,5,ปัจจุบัน,46,8,โสด,0,82688,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Dim Sum Chef,6,ปัจจุบัน,36,8,โสด,0,36118,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Account,Account,Assistant Manager - Accounting,6,ปัจจุบัน,53,8,โสด,0,46856,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,พ้นสภาพ,32,8,โสด,0,16219,,C
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Senior Administrative - Service Operation,8,พ้นสภาพ,31,8,โสด,0,24717,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Special Project (Department),Special Project,Special Project,Special Project Executive,7,ปัจจุบัน,35,8,โสด,0,29525,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Demi Chef,8,พ้นสภาพ,60,7,โสด,0,18672,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,ปัจจุบัน,42,7,แต่งงาน,1,15110,,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,พ้นสภาพ,38,8,โสด,0,16375,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,ปัจจุบัน,32,8,โสด,0,19630,,B
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,ปัจจุบัน,34,8,โสด,0,28941,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Sales and Marketing (Department),Sales Administration,Sales Administration,Sales Coordinator,8,ปัจจุบัน,38,8,โสด,0,20616,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,37,8,โสด,0,15117,,C
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Restaurant Group,Restaurant Group,Supervisor - Administrative,7,ปัจจุบัน,37,8,โสด,0,29773,ปริญญาตรี,B
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),Jackie Seafood - Service,Jackie Seafood - Service,Supervisor,8,ปัจจุบัน,26,8,โสด,0,18000,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Corporate Communications (Department),Creative & Graphic Design,Creative & Graphic Design,Senior Web Developer,7,พ้นสภาพ,44,8,โสด,0,38232,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Car Park3),Cashier (Car Park3),Cashier (Car Park),10,พ้นสภาพ,29,8,โสด,0,13857,,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),European Kitchen,European Kitchen,Chef de Partie,7,ปัจจุบัน,33,8,โสด,0,22059,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis I,9,ปัจจุบัน,36,8,แต่งงาน,1,19901,,A
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Chopper II,7,ปัจจุบัน,33,8,โสด,0,22806,ปริญญาตรี,B
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis I,9,ปัจจุบัน,26,8,โสด,0,18000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,43,8,โสด,0,18025,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,27,8,โสด,2,18025,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Steward Attendant,10,ปัจจุบัน,27,8,โสด,0,15411,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Captain,9,ปัจจุบัน,30,8,โสด,0,16207,,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Wok I,6,ปัจจุบัน,40,8,โสด,0,30092,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),IT Application Support,IT Application Support,Supervisor - Application,7,ปัจจุบัน,36,8,โสด,0,29400,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Officer - Helpdesk Support,9,ปัจจุบัน,47,8,โสด,0,20262,,C
+ผู้จัดการ,เพศชาย,Corporate Communications (Department),Leisure & Restaurant Public Relations,Leisure & Restaurant Public Relations,Manager - Public Relations,5,ปัจจุบัน,46,8,โสด,0,56500,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,พ้นสภาพ,39,8,โสด,0,16741,,B
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chopper III,8,ปัจจุบัน,50,8,โสด,0,20454,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Cafe - Service,Hong Kong Cafe - Service,Steward,11,ปัจจุบัน,41,8,โสด,2,12380,,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Service(Challenger),Tai Sho Tei - Service(Challenger),Manager - Restaurant,6,พ้นสภาพ,52,8,แต่งงาน,2,35390,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Senior Staff Landscape & Sanitation,10,ปัจจุบัน,44,8,โสด,0,14878,,C
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis I,9,ปัจจุบัน,31,8,โสด,2,17805,,C
+หัวหน้างาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Supervisor - Admin,7,ปัจจุบัน,40,8,โสด,0,19283,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Manager - Restaurant,6,ปัจจุบัน,37,8,โสด,1,34067,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Operation support Assistant Manager,7,ปัจจุบัน,43,8,โสด,1,43353,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Senior Officer - System Administrative,8,ปัจจุบัน,41,8,โสด,0,23170,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,พ้นสภาพ,37,7,โสด,0,11000,,B
+พนักงาน,เพศชาย,Thong Lor Thai Cuisine (Department),Thonglor Thai Cuisine,Thonglor Thai Cuisine,Cold kitchen Cook,8,ปัจจุบัน,47,8,โสด,0,16304,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Manager - Area,5,ปัจจุบัน,49,8,โสด,0,70560,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Exhibition Project (Department),Business Development,Business Development,Assistant Manager - Business Development,6,ปัจจุบัน,36,8,โสด,0,35566,ปริญญาตรี,B
+ผู้จัดการ,เพศหญิง,Operations (Department),Service Operation,Service Operation,Manager - Service Operation,5,พ้นสภาพ,45,8,โสด,0,69527,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Kitchen Coordinator,8,ปัจจุบัน,31,8,โสด,0,17365,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Asst. BBQ Chef,7,ปัจจุบัน,39,8,โสด,0,21630,ปริญญาตรี,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Supervisor Kitchen,8,ปัจจุบัน,34,8,โสด,0,19645,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade A1,Sales Coordinator,9,พ้นสภาพ,37,8,หย่า,1,23000,ปริญญาตรี,D
+หัวหน้างาน,เพศหญิง,Standard Control (Department),Implement Control,Implement Control,Implement Control Supervisor,7,ปัจจุบัน,34,8,แต่งงาน,2,34608,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),Uwajima - Service,Uwajima - Service,Manager - Restaurant,6,ปัจจุบัน,46,8,โสด,2,44245,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Ito Kacho - Service (Nihonmura),Ito Kacho - Service (Nihonmura),Hostess,9,พ้นสภาพ,26,8,โสด,1,11550,มัธยมศึกษาตอนต้น,D
+ผู้จัดการ,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Chef de Cuisine,4,ปัจจุบัน,52,8,แต่งงาน,4,61267,,C
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Senior Staff Landscape & Sanitation,10,ปัจจุบัน,49,8,โสด,0,13381,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Cash Card),Cashier (Cash Card),Cashier (Cash Card),10,ปัจจุบัน,44,8,โสด,0,15061,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Captain,9,ปัจจุบัน,39,8,โสด,0,16693,,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Reactive),Corporate & Media (Reactive),Manager - Sales,5,ปัจจุบัน,44,8,แต่งงาน,1,45150,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Senior M&E Technician,8,ปัจจุบัน,42,8,โสด,0,19998,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Receiving Officer,9,ปัจจุบัน,51,8,แต่งงาน,0,16069,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Jackie Seafood - Service,Jackie Seafood - Service,Captain,9,พ้นสภาพ,48,8,โสด,0,15750,,B
+พนักงาน,เพศชาย,Operations (Department),Data Center and Store,Data Center and Store,Store Staff,9,ปัจจุบัน,26,8,โสด,0,12625,,D
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Government (Proactive),Government (Proactive),Assistant Manager - Sales,6,ปัจจุบัน,38,8,โสด,0,33290,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Exhibition (Local) - Proactive,Exhibition (Local) - Proactive,Manager - Sales,5,ปัจจุบัน,38,8,โสด,0,55000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Commis I,9,ปัจจุบัน,35,8,โสด,0,15192,,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Senior Staff Landscape & Sanitation,10,ปัจจุบัน,30,8,โสด,0,19077,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Receiving Officer,9,พ้นสภาพ,30,8,แต่งงาน,0,15353,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Receiving Officer,9,พ้นสภาพ,57,8,โสด,0,17030,,C
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Wok I,6,พ้นสภาพ,51,8,โสด,0,25393,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,R&M Officer,9,พ้นสภาพ,30,8,โสด,0,13256,,B
+หัวหน้างาน,เพศชาย,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Assistant Manager - IT,6,ปัจจุบัน,36,8,โสด,0,48038,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Administrative Officer,8,ปัจจุบัน,40,8,โสด,0,28342,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Housekeeping Attendant,11,ปัจจุบัน,58,8,โสด,0,14631,,C
+พนักงาน,เพศชาย,Exhibition Project (Department),Consumer Team,Marketing Communication Team,Online Content Officer,9,พ้นสภาพ,37,8,โสด,0,23000,ปริญญาตรี,D
+หัวหน้างาน,เพศชาย,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Assistant Manager - M&E (Beehive),6,ปัจจุบัน,56,7,โสด,0,35000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Receiving Officer,9,ปัจจุบัน,35,8,โสด,0,16868,,C
+ผู้จัดการ,เพศชาย,Operations (Department),Transportation,Transportation,Senior Manager - Transportation,4,พ้นสภาพ,50,8,โสด,0,72278,,C
+หัวหน้างาน,เพศชาย,IMPACT Lake Front (Department),ISAN JIM JOOM - Service,ISAN JIM JOOM - Service,Assistant Manager - Restaurant,7,ปัจจุบัน,42,8,โสด,0,26363,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,32,8,แต่งงาน,0,16121,,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Receiving,Receiving,Chief Receiving,6,พ้นสภาพ,48,8,โสด,0,35393,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,พ้นสภาพ,43,7,โสด,0,13781,,B
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Cosmo),Tsubohachi - Service (Cosmo),Manager - Restaurant,6,ปัจจุบัน,36,8,โสด,0,35727,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Art Attendant,9,พ้นสภาพ,42,8,โสด,0,12875,,C
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Assistant Manager - Pub,6,ปัจจุบัน,42,8,แต่งงาน,1,31892,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Cosmo Office Park,Cosmo Office Park,Building Coordinator,8,ปัจจุบัน,31,8,โสด,0,17850,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Management Office (Department),Chairman Office,Chairman Office,Pantry Attendant,10,พ้นสภาพ,45,8,โสด,0,14443,,A
+หัวหน้างาน,เพศหญิง,Special Project (Department),Special Project,Special Project,Special Project Executive,7,ปัจจุบัน,52,7,โสด,0,28119,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Budget & Report,Budget & Report,Document Coordinator,9,พ้นสภาพ,33,8,โสด,0,17886,,B
+พนักงาน,เพศหญิง,IMPACT Tennis Academy & Sport Club (Dep.),Operation Support,Operation Support,AdminReceptionist,9,พ้นสภาพ,41,14,โสด,0,11000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,IMPACT Tennis Academy & Sport Club (Dep.),Cafe,Cafe,Commis II,10,พ้นสภาพ,58,16,โสด,0,11000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Management Office (Department),Main Transport Center,Main Transport Center,Assistant Manager,6,ปัจจุบัน,35,9,โสด,0,46629,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),Personal Training,Personal Training,Supervisor - Fitness,7,พ้นสภาพ,34,12,โสด,0,18919,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),IMPACT Fitness,IMPACT Fitness,Supervisor - Fitness,7,ปัจจุบัน,34,10,โสด,0,19200,ปริญญาตรี,C
+พนักงาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),Personal Training,Personal Training,Personal Trainer,8,พ้นสภาพ,31,9,โสด,0,16029,ปริญญาตรี,D
+พนักงาน,เพศชาย,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Technician,9,ปัจจุบัน,38,7,โสด,0,14631,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Building Technician,9,ปัจจุบัน,50,8,โสด,0,13792,,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Senior Art Attendant,8,ปัจจุบัน,30,8,โสด,0,17655,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),External Works,External Works,Chief of Electrician,7,ปัจจุบัน,58,33,โสด,0,25759,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),Area Control,Area Control,Officer Area Control,9,ปัจจุบัน,57,23,โสด,0,15854,,A
+พนักงาน,เพศชาย,City Management (Department),Area Control,Area Control,Officer Area Control,9,ปัจจุบัน,53,21,โสด,0,15738,,A
+พนักงาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Area Control Officer,9,พ้นสภาพ,50,20,โสด,0,16005,,A
+พนักงาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Area Control Officer,9,พ้นสภาพ,61,19,โสด,0,15500,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),External Works,External Works,Electrician,9,ปัจจุบัน,49,27,โสด,0,17651,,B
+หัวหน้างาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Area Control Supervisor,7,พ้นสภาพ,58,27,โสด,0,21781,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,55,28,โสด,0,14073,,B
+พนักงาน,เพศชาย,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,58,24,โสด,0,9930,,C
+พนักงาน,เพศชาย,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,60,33,โสด,0,9930,,C
+หัวหน้างาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Assistant Manager - Traffic and Security(MTT),6,พ้นสภาพ,50,11,โสด,0,35451,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),Administrative,Administrative,Administrative Officer,9,ปัจจุบัน,33,8,โสด,1,17310,,D
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,45,13,โสด,0,16422,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,54,11,โสด,0,13000,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,55,8,โสด,0,15859,,B
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),External Works,External Works,Assistant Manager - Mechanical & Electrical (MT),6,ปัจจุบัน,58,27,โสด,0,42623,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),External Works,External Works,Electrician,9,ปัจจุบัน,52,27,โสด,0,27742,,A
+พนักงาน,เพศชาย,Facility Management & IT (Department),External Works,External Works,Electrician,9,ปัจจุบัน,54,26,โสด,0,29606,,B
+ผู้จัดการ,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Manager Landscape & Sanitation,5,ปัจจุบัน,54,27,โสด,0,54447,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,52,21,โสด,0,15718,,A
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,58,27,โสด,0,20012,,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,44,17,โสด,0,14992,,A
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,42,13,โสด,0,14320,,A
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,53,9,โสด,0,13640,,A
+หัวหน้างาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Assistant Manager - Sanitation,6,พ้นสภาพ,46,12,โสด,3,35445,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,54,8,โสด,0,11722,,A
+ผู้จัดการ,เพศหญิง,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Manager - Area,5,ปัจจุบัน,41,8,โสด,0,52094,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,ปัจจุบัน,39,7,โสด,0,16863,,D
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Supervisor Service,8,พ้นสภาพ,26,7,โสด,0,13241,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Corporate Communications (Department),Website and Social Media,Website and Social Media,Web Developer Supervisor,7,ปัจจุบัน,36,7,โสด,0,41328,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Corporate Communications (Department),Photo media & Visual,Photo media & Visual,Photographer Supervisor,7,ปัจจุบัน,31,7,โสด,0,33000,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Procurement Supervisor,7,ปัจจุบัน,40,7,หม้าย,1,29768,ปริญญาตรี,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Hong Kong Cafe - Service,Hong Kong Cafe - Service,Captain,9,พ้นสภาพ,35,7,โสด,0,15898,,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Supervisor Kitchen,8,พ้นสภาพ,33,7,โสด,0,18522,ปริญญาตรี,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis I,9,พ้นสภาพ,31,7,โสด,0,15450,,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Exhibition (Local) - Reactive,Exhibition (Local) - Reactive,Manager - Sales,5,ปัจจุบัน,39,7,โสด,0,50495,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Suki - Service (Portal),Hong Kong Suki - Service (Portal),Steward,11,ปัจจุบัน,45,7,แต่งงาน,0,12360,,C
+พนักงาน,เพศชาย,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,58,13,โสด,0,9930,,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,58,12,โสด,0,12220,,A
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,53,12,โสด,0,11433,,B
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,49,9,โสด,0,11006,,C
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,43,8,โสด,0,11219,,B
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,49,25,โสด,0,11377,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,47,22,โสด,0,11035,,C
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,50,22,โสด,0,12039,,B
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,52,20,โสด,0,11810,,B
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,60,17,โสด,0,11585,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,52,17,โสด,0,11585,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,46,14,โสด,0,11254,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,52,12,โสด,0,10927,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,46,10,โสด,0,10832,,B
+พนักงาน,เพศชาย,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,30,10,โสด,0,10598,,D
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,28,10,โสด,0,10786,,C
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,44,9,โสด,0,10927,,C
+พนักงาน,เพศหญิง,The Coffee group (Department),The coffee Academics - Service(Langsuan),The coffee Academics - Service(Langsuan),Service,9,ปัจจุบัน,42,7,โสด,0,15000,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,59,7,หย่า,0,16044,,A
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Officer City Traffic and Security,8,ปัจจุบัน,39,7,โสด,0,18346,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Energy Saving,Energy Saving,Assistant Manager - Energy Saving,6,ปัจจุบัน,49,7,โสด,0,40548,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),European Kitchen,European Kitchen,Commis II,10,ปัจจุบัน,29,7,โสด,2,14884,,B
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Demi Chef,8,ปัจจุบัน,31,7,โสด,0,19950,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),European Kitchen,European Kitchen,Commis II,10,ปัจจุบัน,46,7,โสด,2,14564,,D
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Supervisor - Accounting Payable,7,ปัจจุบัน,39,7,โสด,0,35000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Service Staff,10,พ้นสภาพ,58,7,แต่งงาน,0,11000,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Supervisor - Food & Beverage Cost,8,ปัจจุบัน,34,7,โสด,0,19680,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis I,9,ปัจจุบัน,35,7,แต่งงาน,1,19467,,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Marketing,Marketing,Assistant Manager - Marketing,6,ปัจจุบัน,32,7,โสด,0,27685,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Assistant Manager -Japanese Chef,6,พ้นสภาพ,35,7,โสด,0,28665,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Secretary of Chinese Banquet Kitchen,8,ปัจจุบัน,33,7,โสด,0,16166,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Nihonmachi),Tsubohachi - Kitchen (Nihonmachi),Supervisor,8,พ้นสภาพ,28,7,โสด,1,19441,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,VRM Executive,8,ปัจจุบัน,30,7,โสด,0,20665,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,27,7,โสด,0,15435,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Officer City Traffic and Security,9,ปัจจุบัน,43,7,โสด,0,15144,,D
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Officer (MTT),8,พ้นสภาพ,33,7,โสด,0,18346,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Traffic and Secutiy Officer (MTT),9,พ้นสภาพ,47,7,โสด,0,13787,,D
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Beehive),Tsubohachi - Service (Beehive),Manager - Restaurant,6,ปัจจุบัน,42,7,โสด,1,35390,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),EASE Cafe,EASE Cafe,Assistant Manager - Restaurant,7,ปัจจุบัน,36,7,โสด,0,23793,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Corporate Communications (Department),Creative & Graphic Design,Creative & Graphic Design,Creative & Graphic Design Executive,8,ปัจจุบัน,30,7,โสด,0,25446,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Food & Beverage Cost Officer,9,ปัจจุบัน,30,7,แต่งงาน,0,17545,,C
+พนักงาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Senior Procurement Officer,8,ปัจจุบัน,39,7,โสด,0,25462,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Senior Account Payable,7,พ้นสภาพ,45,7,โสด,1,25750,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Supervisor - Food & Beverage Cost Controller,8,ปัจจุบัน,32,7,โสด,0,24074,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Sous Chef,5,ปัจจุบัน,43,7,โสด,0,36383,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis II,10,ปัจจุบัน,27,7,โสด,0,14253,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,พ้นสภาพ,44,7,โสด,1,17813,,A
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Assistant Manager - Restaurant,7,พ้นสภาพ,35,7,โสด,0,30377,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Corporate Communications (Department),Corporate adminstrative,Corporate adminstrative,Supervisor - Administrative,7,ปัจจุบัน,49,7,หย่า,0,26372,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Supervisor - Store,8,ปัจจุบัน,39,7,โสด,0,18743,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Cosmo),Tsubohachi - Kitchen (Cosmo),Supervisor,8,พ้นสภาพ,33,7,โสด,0,17634,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Service,10,พ้นสภาพ,42,7,โสด,0,12988,,C
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Assistant Manager - Catering,6,พ้นสภาพ,40,7,โสด,0,33031,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Service,10,พ้นสภาพ,27,7,โสด,1,13116,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,พ้นสภาพ,50,7,โสด,2,11550,,A
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Art Attendant,9,พ้นสภาพ,29,7,โสด,0,13519,,B
+หัวหน้างาน,เพศหญิง,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Supervisor - Client Service,7,ปัจจุบัน,45,14,โสด,2,32445,ปริญญาตรี,B
+พนักงาน,เพศชาย,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Technician,9,พ้นสภาพ,36,7,โสด,0,18006,,C
+พนักงาน,เพศชาย,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Technician,9,ปัจจุบัน,38,7,โสด,0,15206,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Nihonmachi),Tsubohachi - Kitchen (Nihonmachi),Steward,11,พ้นสภาพ,46,7,โสด,2,11923,,C
+พนักงาน,เพศชาย,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,42,7,โสด,0,10817,,C
+พนักงาน,เพศชาย,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,52,7,โสด,0,10451,,C
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,54,7,โสด,0,10801,,B
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,50,7,หย่า,0,10850,,B
+พนักงาน,เพศหญิง,City Management (Department),Landscape,Landscape,Service Staff,11,พ้นสภาพ,39,7,โสด,0,10618,,C
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Operation Support (M&E),Operation Support (M&E),Supervisor - Operation Support M&E,7,ปัจจุบัน,37,7,โสด,0,22720,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,36,7,โสด,0,13524,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Cafe - Service,Hong Kong Cafe - Service,Steward Attendant,11,พ้นสภาพ,53,7,โสด,2,11254,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,พ้นสภาพ,51,7,โสด,0,11550,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,ปัจจุบัน,26,7,โสด,1,12965,,B
+พนักงาน,เพศชาย,IT and Communication (Department),IT Network,IT Network,Senior Officer - Network,8,พ้นสภาพ,34,7,โสด,0,28000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Building Technician,9,พ้นสภาพ,39,7,โสด,0,11110,,D
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Building Technician,9,ปัจจุบัน,46,7,โสด,0,13787,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,50,7,โสด,0,15255,,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,ปัจจุบัน,35,7,โสด,0,15757,,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,ปัจจุบัน,27,7,แต่งงาน,2,15595,,D
+พนักงาน,เพศชาย,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,F&B Driver,9,ปัจจุบัน,41,7,แต่งงาน,0,16525,,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(Thaniya),Tsubohachi - Kitchen(Thaniya),Commis I,9,พ้นสภาพ,28,7,โสด,0,12000,มัธยมศึกษาตอนต้น,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Supervisor - Kitchen,8,ปัจจุบัน,26,7,โสด,0,14060,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Cosmo),Tsubohachi - Kitchen (Cosmo),Commis I,9,พ้นสภาพ,30,7,โสด,0,13792,,C
+พนักงาน,เพศชาย,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,32,7,โสด,0,20665,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,พ้นสภาพ,42,7,โสด,0,18232,,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Media,Real Estate Media,Coordinator - Media,8,ปัจจุบัน,35,7,โสด,0,20600,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Exhibition Project (Department),Consumer Team,Consumer Team,Assistant Manager - Operation,6,พ้นสภาพ,35,7,โสด,0,33000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Car Park3),Cashier (Car Park3),Cashier (Car Park),10,พ้นสภาพ,46,7,โสด,0,13323,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Supervisor - Cashier,8,ปัจจุบัน,38,7,โสด,0,19661,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Cosmo),Tsubohachi - Service (Cosmo),Assistant Manager - Restaurant,7,ปัจจุบัน,48,7,โสด,1,29503,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,ปัจจุบัน,30,7,โสด,0,16683,,C
+ผู้จัดการ,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chinese Chef,5,ปัจจุบัน,46,7,แต่งงาน,2,36918,ปริญญาตรี,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis II,10,ปัจจุบัน,32,7,โสด,0,13498,,C
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Accounting,Accounting,Senior Account Payable,7,ปัจจุบัน,30,7,โสด,0,25750,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Service,Terrazza - Service,Captain,9,ปัจจุบัน,38,7,โสด,0,15450,,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Chef de Partie,7,พ้นสภาพ,52,7,โสด,0,20223,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Credit Control,Credit Control,Senior A/R Officer,8,ปัจจุบัน,44,7,โสด,0,30374,ปริญญาตรี,A
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Commis II,10,ปัจจุบัน,40,7,โสด,0,15998,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,35,7,โสด,0,15444,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Mechanic Technician,9,ปัจจุบัน,45,7,แต่งงาน,0,15353,,C
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,ปัจจุบัน,36,7,โสด,0,14700,,B
+พนักงาน,เพศชาย,City Management (Department),Area Control,Area Control,Senior Officer Area Control,8,ปัจจุบัน,41,7,โสด,0,20802,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Senior Mechanic Technician,8,ปัจจุบัน,26,7,โสด,0,18061,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Food & Beverage (Department),Banquet - Support,Banquet - Support,Supervisor - F&B Art,7,ปัจจุบัน,52,7,โสด,0,36920,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,พ้นสภาพ,51,7,โสด,0,13261,,C
+พนักงาน,เพศหญิง,Sales and Marketing (Department),Marketing,Marketing,Marketing Coordinator,8,ปัจจุบัน,45,7,โสด,0,22048,ปริญญาตรี,A
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Senior Officer - Media Support,8,ปัจจุบัน,35,7,โสด,0,17377,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Commis II,10,พ้นสภาพ,35,7,โสด,0,14428,,C
+พนักงาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Housekeeping Attendant,11,ปัจจุบัน,47,7,โสด,0,12991,,B
+หัวหน้างาน,เพศชาย,Project Management (Department),Construction,Construction,General Foreman,7,พ้นสภาพ,51,14,โสด,2,28671,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Project Management (Department),Construction,Construction,Manager - Project,5,ปัจจุบัน,44,14,โสด,0,57860,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Project Management (Department),Project Management,Project Management,Contract Coordinator,7,ปัจจุบัน,45,14,โสด,0,25225,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Project Management (Department),Construction,Construction,General Foreman,7,ปัจจุบัน,41,14,โสด,0,24542,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Project Management (Department),Project Management,Project Management,Document Coordinator,7,ปัจจุบัน,36,12,โสด,0,22088,ปริญญาตรี,B
+พนักงาน,เพศชาย,Project Management (Department),Construction,Construction,Foreman,8,พ้นสภาพ,40,12,โสด,0,18373,ปริญญาตรี,D
+พนักงาน,เพศชาย,Project Management (Department),Construction,Construction,Foreman,8,พ้นสภาพ,38,12,โสด,0,18205,ปริญญาตรี,C
+พนักงาน,เพศหญิง,City Management (Department),Administrative,Administrative,Administrative Officer,9,พ้นสภาพ,49,7,โสด,0,15500,,B
+หัวหน้างาน,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team A,Assistant Manager - Sales,7,พ้นสภาพ,40,7,แต่งงาน,1,32769,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Facility Management & IT (Department),IT Application Support,IT Application Support,Officer - Application,9,ปัจจุบัน,32,7,โสด,0,18522,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis III,11,ปัจจุบัน,43,7,โสด,0,13792,,C
+พนักงาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Audio Visual Operator,9,ปัจจุบัน,31,7,โสด,0,18581,,A
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Service Store Keeper,8,ปัจจุบัน,46,7,โสด,0,24092,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Income Auditor,8,ปัจจุบัน,34,7,โสด,0,20077,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Manager - Banquet,5,พ้นสภาพ,54,7,โสด,0,41096,ปริญญาตรี,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,32,7,โสด,0,18725,ปริญญาตรี,D
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,32,7,โสด,0,18025,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,พ้นสภาพ,27,7,โสด,0,11700,,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,ปัจจุบัน,31,7,โสด,0,16213,,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Banquet Waitress,9,ปัจจุบัน,27,7,โสด,0,15757,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Hostess,9,ปัจจุบัน,31,7,โสด,0,14700,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Officer City Traffic and Security,8,ปัจจุบัน,41,7,โสด,0,19145,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,47,7,โสด,0,15444,,C
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Credit Control,Credit Control,Credit Controller,6,ปัจจุบัน,42,7,โสด,0,49609,ปริญญาตรี,B
+พนักงาน,เพศชาย,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,55,7,โสด,0,13481,,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,ปัจจุบัน,45,7,โสด,0,13224,,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Chef de Partie,7,พ้นสภาพ,42,7,โสด,0,32194,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),European Kitchen,European Kitchen,Commis II,10,ปัจจุบัน,31,7,แต่งงาน,3,15141,,C
+พนักงาน,เพศชาย,Operations (Department),Data Center and Store,Data Center and Store,R&M Officer,9,พ้นสภาพ,50,7,โสด,0,13256,,B
+ผู้จัดการ,เพศชาย,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Manager - Tenant Coordinator,5,ปัจจุบัน,48,7,แต่งงาน,0,64410,ปริญญาตรี,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Restaurant Marketing,Restaurant Marketing,Restaurant Graphic Designer,8,ปัจจุบัน,32,7,โสด,0,24542,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Commis III,11,พ้นสภาพ,40,7,โสด,2,11000,,B
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),IT Application Support,IT Application Support,Assistant Manager - IT Application Support,6,ปัจจุบัน,48,7,โสด,1,82655,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Junior Sous Bakery,6,พ้นสภาพ,53,7,โสด,2,30000,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Facility Management & IT (Department),IT,IT,Senior Manager,4,พ้นสภาพ,44,7,แต่งงาน,2,130000,,A
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,31,7,โสด,0,19467,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,31,7,โสด,0,19695,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Art,7,ปัจจุบัน,45,7,โสด,3,30388,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,ปัจจุบัน,46,7,โสด,0,17531,,B
+ผู้จัดการ,เพศชาย,Standard Control (Department),Implement Control,Implement Control,Manager - Implement Control,5,พ้นสภาพ,49,7,โสด,0,50000,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Marketing,Marketing,Senior Manager - Marketing,4,พ้นสภาพ,38,6,โสด,0,79490,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,พ้นสภาพ,52,7,โสด,2,11550,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Kitchen Cleaner,Kitchen Cleaner,Cleaner,11,ปัจจุบัน,48,7,โสด,0,13346,,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Cosmo Bazaar,Cosmo Bazaar,Technician - Cosmo Bazaar,9,ปัจจุบัน,26,7,โสด,0,15450,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,พ้นสภาพ,32,6,โสด,0,11000,,D
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,ปัจจุบัน,29,6,โสด,0,16170,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Kitchen,Retro Bar Cafe' - Kitchen,Steward,11,พ้นสภาพ,57,6,โสด,0,12600,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Hostess,9,พ้นสภาพ,33,6,โสด,0,11550,มัธยมศึกษาตอนต้น,D
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,44,6,โสด,0,15336,,A
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,28,6,โสด,0,14344,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,36,6,แต่งงาน,0,14763,,C
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Demi Chef,8,ปัจจุบัน,42,6,โสด,1,21210,ปริญญาตรี,C
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis III,11,ปัจจุบัน,46,6,โสด,0,12357,,C
+พนักงาน,เพศชาย,Management Office (Department),Management Office,Management Office,Administrative Officer,9,พ้นสภาพ,42,6,โสด,0,19766,,C
+พนักงาน,เพศหญิง,Operations (Department),VRM,VRM,VRM Coordinator,9,พ้นสภาพ,34,6,โสด,0,13261,,C
+พนักงาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Procurement Officer,9,ปัจจุบัน,42,6,โสด,0,21642,,C
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Budget & Report,Budget & Report,Assistant Manager - Budget & Report,6,ปัจจุบัน,35,6,โสด,1,32000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Commis I,9,ปัจจุบัน,30,6,โสด,0,15914,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team,Operation Executive,8,พ้นสภาพ,33,6,โสด,0,20000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Support,Banquet - Support,Art Coordinator,9,พ้นสภาพ,28,6,โสด,0,14853,,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,25,6,โสด,0,18386,ปริญญาตรี,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,27,6,โสด,0,18035,ปริญญาตรี,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Uwajima - Kitchen,Uwajima - Kitchen,Supervisor Kitchen,8,ปัจจุบัน,28,6,โสด,0,17304,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis I,9,ปัจจุบัน,33,6,แต่งงาน,1,16797,,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,พ้นสภาพ,37,6,แต่งงาน,0,13781,,B
+พนักงาน,เพศหญิง,IMPACT Tennis Academy & Sport Club (Dep.),Sales & Marketing,Sales & Marketing,Member Relations Representative,8,พ้นสภาพ,30,6,โสด,0,16029,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,29,6,โสด,0,18386,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Account,Account,Income Auditor,8,ปัจจุบัน,34,6,โสด,0,16710,ปริญญาตรี,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,33,6,หย่า,0,15050,,B
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Government (Reactive),Government (Reactive),Sales Executive,7,ปัจจุบัน,30,6,โสด,0,26460,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,32,6,โสด,0,25750,ปริญญาตรี,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Ito Kacho - Kitchen (Nihonmura),Ito Kacho - Kitchen (Nihonmura),Commis II,10,พ้นสภาพ,27,6,โสด,0,11000,มัธยมศึกษาตอนต้น,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Account,Account,Income Auditor,8,ปัจจุบัน,32,6,โสด,0,16926,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Service,Flann Impact - Service,Assistant Manager,7,ปัจจุบัน,48,6,โสด,0,24610,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),International Exhibition & Convention (Pro),International Exhibition & Convention (Pro),Manager - Sales,5,พ้นสภาพ,37,6,โสด,0,50605,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Service,Terrazza - Service,Captain,9,ปัจจุบัน,31,6,โสด,0,15000,,A
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Service,10,ปัจจุบัน,34,6,โสด,0,12016,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,37,6,โสด,0,14622,,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,10,พ้นสภาพ,29,6,โสด,0,13261,,C
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Tenant Coordinator,Real Estate Tenant Coordinator,Coordinator - Tenant Coordinator,8,พ้นสภาพ,31,6,โสด,0,15000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Audio Visual Operator,9,ปัจจุบัน,35,6,โสด,0,17864,,A
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,ปัจจุบัน,34,6,โสด,0,26215,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Assistant Manager - Set up,6,ปัจจุบัน,43,6,โสด,0,45864,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Assistant Manager - Restaurant,7,พ้นสภาพ,45,6,โสด,0,27300,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Exhibition Project (Department),Business Development,Business Development,Business Development Executive,8,ปัจจุบัน,32,6,โสด,0,27583,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Beehive),Tsubohachi - Service (Beehive),Assistant Manager - Restaurant,7,ปัจจุบัน,32,6,โสด,0,28390,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Project Management (Department),Cost Control,Cost Control,Assistant Manager - Cost Control,6,ปัจจุบัน,35,6,โสด,0,43152,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Cost Officer,8,ปัจจุบัน,39,6,โสด,0,19683,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,ปัจจุบัน,31,6,โสด,0,17120,,A
+หัวหน้างาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,พ้นสภาพ,34,6,โสด,0,30495,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,IMPACT Tennis Academy & Sport Club (Dep.),IMPACT Fitness,IMPACT Fitness,Supervisor - Fitness,7,ปัจจุบัน,35,6,แต่งงาน,0,18919,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Service (Nihonmachi),Tsubohachi - Service (Nihonmachi),Service Staff,7,ปัจจุบัน,51,6,โสด,1,54075,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis I,9,ปัจจุบัน,28,6,โสด,0,14611,ปริญญาตรี,A
+พนักงาน,เพศชาย,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,33,6,โสด,0,10496,,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Building Technician,9,ปัจจุบัน,38,6,โสด,0,14895,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Receiving,Receiving,Receiving Officer,10,ปัจจุบัน,36,6,โสด,0,13792,,D
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,ปัจจุบัน,35,6,โสด,0,15450,,C
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),IT Network Exhibition Support,IT Network Exhibition Support,Supervisor - IT Coordinator,7,พ้นสภาพ,34,6,แต่งงาน,0,36914,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Data Center and Store,Data Center and Store,Data Center Officer,9,ปัจจุบัน,29,6,แต่งงาน,0,20865,,A
+พนักงาน,เพศชาย,Operations (Department),Transportation,Transportation,Shuttle bus driver,11,พ้นสภาพ,48,6,โสด,0,13240,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(Thaniya),Tsubohachi - Service(Thaniya),Hostess,9,พ้นสภาพ,43,6,โสด,0,11550,มัธยมศึกษาตอนต้น,C
+พนักงาน,เพศชาย,Management Office (Department),Management Office,Management Office,Transportation Officer,10,พ้นสภาพ,35,6,โสด,0,12000,,B
+พนักงาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Senior Procurement Officer,8,ปัจจุบัน,36,6,แต่งงาน,1,26000,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Assistant F&B Cost Controller,6,ปัจจุบัน,41,6,โสด,0,53086,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Supervisor - Restaurant Project,7,ปัจจุบัน,42,6,โสด,0,28941,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),IT Application Support,IT Application Support,Supervisor - Application,7,ปัจจุบัน,32,6,โสด,0,42601,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Area Control Officer,9,พ้นสภาพ,30,6,โสด,0,14763,,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Building Technician,9,ปัจจุบัน,58,6,โสด,2,12360,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Senior Building Technician,8,ปัจจุบัน,39,6,โสด,0,14606,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),Store,Store,Assistant Chief - Store,7,ปัจจุบัน,50,6,โสด,1,31796,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Chef de Partie,7,พ้นสภาพ,33,6,โสด,0,20223,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis III,11,ปัจจุบัน,29,6,โสด,0,13792,,C
+หัวหน้างาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Senior Executive - Service Operation,7,ปัจจุบัน,35,6,โสด,0,25725,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Procurement (Department),Procurement - Food,Procurement - Food,Procurement Officer,9,พ้นสภาพ,38,6,โสด,0,19838,,C
+หัวหน้างาน,เพศชาย,Project Management (Department),Cost Control,Cost Control,Cost Control Engineer,7,ปัจจุบัน,30,6,โสด,0,30098,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Costing,Costing,Beverage Cost Officer,9,ปัจจุบัน,31,6,โสด,0,16871,,B
+หัวหน้างาน,เพศหญิง,Finance & Accounting (Department),Budget & Report,Budget & Report,Assistant Manager - Budget & Report,6,ปัจจุบัน,49,6,โสด,1,38989,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,ปัจจุบัน,30,6,แต่งงาน,2,15750,,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Officer - Helpdesk Support,9,ปัจจุบัน,31,6,โสด,0,12731,,D
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Service,Retro Bar Cafe' - Service,Captain,9,ปัจจุบัน,25,6,โสด,0,15450,,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Steward,Steward,Steward Attendant,11,พ้นสภาพ,25,9,โสด,0,11254,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Service(Challenger),Tai Sho Tei - Service(Challenger),Manager - Restaurant,6,ปัจจุบัน,33,6,โสด,0,28665,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade B4,Sales Executive,8,ปัจจุบัน,29,6,โสด,0,24205,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Loss Prevention Officer,9,ปัจจุบัน,50,6,โสด,0,18380,,A
+หัวหน้างาน,เพศหญิง,Corporate Communications (Department),Corporate adminstrative,Corporate adminstrative,Supervisor - Administrative,7,ปัจจุบัน,37,6,โสด,0,27518,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Human Resources (Department),OD,OD,Manager - OD,5,พ้นสภาพ,45,6,โสด,0,55000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,พ้นสภาพ,59,6,โสด,0,13261,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Set Up,Set Up,Supervisor - Set up,7,ปัจจุบัน,43,6,โสด,0,22660,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Support,Banquet - Support,Art Coordinator,9,ปัจจุบัน,43,6,โสด,0,14746,,A
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Supervisor,8,พ้นสภาพ,43,6,โสด,0,16000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Office Support Admin,8,ปัจจุบัน,35,6,แต่งงาน,0,21639,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Facility Management (Department),Cosmo Office Park,Cosmo Office Park,Senior Building Supervisor,6,พ้นสภาพ,51,6,โสด,0,34067,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis II,10,ปัจจุบัน,28,6,โสด,0,14563,,C
+ผู้จัดการ,เพศชาย,Exhibition Project (Department),Consumer Team,Consumer Team Event,Manager - Project,5,ปัจจุบัน,37,6,โสด,0,41200,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,Facility Management & IT (Department),Repair Maintenance & Restaurant Project,Repair Maintenance & Restaurant Project,Manager - Repair Maintenance & Restaurant Project,5,ปัจจุบัน,43,6,โสด,0,68381,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Service,Flann Impact - Service,Supervisor,8,ปัจจุบัน,27,6,โสด,0,17000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Commis III,11,ปัจจุบัน,36,6,โสด,0,12016,,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Commis II,10,พ้นสภาพ,27,6,โสด,0,13000,,D
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Portal),Tsubohachi - Kitchen (Portal),Commis III,11,พ้นสภาพ,56,6,โสด,0,12611,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Future Park),Tsubohachi - Kitchen (Future Park),Commis III,11,ปัจจุบัน,37,6,โสด,0,11770,,A
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Senior Staff Landscape & Sanitation,10,ปัจจุบัน,52,6,โสด,0,16710,,C
+หัวหน้างาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Supervisor Landscape & Sanitation,7,ปัจจุบัน,34,6,โสด,0,21846,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Service,Flann Impact - Service,Captain,9,ปัจจุบัน,32,6,โสด,0,15750,,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Future Park),Tsubohachi - Kitchen (Future Park),Supervisor - Kitchen,8,ปัจจุบัน,30,6,โสด,0,13161,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Service,11,ปัจจุบัน,34,6,โสด,0,12613,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Hostess,9,พ้นสภาพ,45,6,โสด,0,14201,,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Store Staff,9,พ้นสภาพ,30,6,โสด,0,13261,,C
+ผู้จัดการ,เพศหญิง,Finance & Accounting (Department),Finance,Finance,Manager - Finance,5,ปัจจุบัน,55,6,แต่งงาน,0,82950,ปริญญาตรี,B
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,Commis II,10,ปัจจุบัน,29,6,โสด,1,15000,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,32,6,โสด,0,13787,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,47,6,โสด,0,14763,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Storekeeper,9,ปัจจุบัน,52,6,โสด,0,27518,,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,ปัจจุบัน,42,9,โสด,0,15447,,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Manager - Restaurant,6,ปัจจุบัน,51,6,โสด,0,41289,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Facility Management,Facility Management,Administrative Officer,9,ปัจจุบัน,37,6,โสด,0,16229,,C
+พนักงาน,เพศหญิง,Operations (Department),Set Up,Set Up,Set up Officer,9,พ้นสภาพ,26,6,โสด,0,13004,,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,Chopper III,8,ปัจจุบัน,31,6,โสด,0,18000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Store,Store,Storekeeper,9,พ้นสภาพ,32,6,โสด,0,19305,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Future Park),Tsubohachi - Kitchen (Future Park),Commis III,11,พ้นสภาพ,39,6,โสด,0,11000,,A
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Future Park),Tsubohachi - Service (Future Park),Service,10,ปัจจุบัน,41,6,โสด,0,12608,,A
+หัวหน้างาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Catering Executive,7,ปัจจุบัน,33,6,โสด,0,29211,ปริญญาตรี,A
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Beverage Cost Officer,9,ปัจจุบัน,29,6,โสด,0,19121,,C
+ผู้จัดการ,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Assets Manager,5,ปัจจุบัน,47,6,โสด,0,77123,ปริญญาตรี,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Food & Beverage Cost Officer,9,ปัจจุบัน,34,6,โสด,0,17196,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),FBU_Finance and Accounting2,FBU_Finance and Accounting2,Administrative Officer,8,พ้นสภาพ,42,6,โสด,0,16550,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,R&M Officer,9,พ้นสภาพ,54,6,โสด,0,13004,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,29,6,โสด,0,13000,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis III,11,พ้นสภาพ,35,6,โสด,0,11000,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT Network Exhibition Support,IT Network Exhibition Support,Senior Officer - Network,8,ปัจจุบัน,37,6,โสด,0,28000,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,28,6,โสด,0,13000,,B
+พนักงาน,เพศชาย,Procurement (Department),Sourcing,Sourcing,Senior Sourcing Officer,8,ปัจจุบัน,42,6,โสด,0,27000,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Wok I,6,ปัจจุบัน,42,6,โสด,0,25393,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,56,6,โสด,0,14622,,B
+พนักงาน,เพศชาย,Food & Beverage (Department),F&B-BQ-SEC,F&B-BQ-SEC,Banquet Waiter,9,ปัจจุบัน,32,6,โสด,0,15147,,D
+พนักงาน,เพศชาย,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,พ้นสภาพ,41,6,โสด,0,19838,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Standard Control (Department),Quality Assurance & Document Control,Quality Assurance & Document Control,Document Control,8,พ้นสภาพ,32,6,โสด,0,25410,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,60,6,แต่งงาน,0,14763,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,33,6,โสด,0,14344,,C
+พนักงาน,เพศหญิง,Operations (Department),VRM,VRM,IMPACT Member Card Executive,8,พ้นสภาพ,37,6,โสด,0,16740,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Audio Visual Operator,9,ปัจจุบัน,32,6,โสด,0,17696,,B
+พนักงาน,เพศชาย,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis II,10,พ้นสภาพ,44,6,แต่งงาน,2,16905,,B
+พนักงาน,เพศชาย,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Captain,9,พ้นสภาพ,44,6,โสด,0,11550,,B
+ผู้จัดการ,เพศชาย,Finance & Accounting (Department),Accounting,Accounting,Senior Manager - Accounting,4,ปัจจุบัน,40,6,โสด,0,111132,,B
+พนักงาน,เพศชาย,Kitchen (Department),Preparation Kitchen,Preparation Kitchen,Commis II,10,ปัจจุบัน,48,6,โสด,0,15435,,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Art Attendant,9,พ้นสภาพ,34,6,โสด,0,13261,,C
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Marketing,Marketing,Assistant Manager - Marketing,6,พ้นสภาพ,34,6,โสด,0,27685,ปริญญาตรี,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tai Sho Tei - Service(Challenger),Tai Sho Tei - Service(Challenger),Service,10,ปัจจุบัน,33,6,โสด,0,12492,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Japanese Restaurant,Japanese Restaurant,Operation Support Officer,9,พ้นสภาพ,27,6,โสด,0,17120,,A
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis I,10,พ้นสภาพ,27,6,โสด,0,16000,,B
+พนักงาน,เพศชาย,Management Office (Department),Main Transport Center,Main Transport Center,Driver,10,ปัจจุบัน,42,6,โสด,0,13497,,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Cosmo),Tsubohachi - Kitchen (Cosmo),Commis III,11,ปัจจุบัน,25,5,โสด,0,11550,,B
+ผู้จัดการ,เพศชาย,Project Management (Department),Construction,Construction,Manager - Project,5,พ้นสภาพ,36,5,โสด,0,54065,ปริญญาตรี,D
+พนักงาน,เพศชาย,Management Office (Department),Management Office,Management Office,Driver,10,พ้นสภาพ,43,5,โสด,0,12000,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Kitchen(Challenger),Tai Sho Tei - Kitchen(Challenger),Commis I,9,พ้นสภาพ,26,5,โสด,0,12000,มัธยมศึกษาตอนต้น,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Beehive),Tsubohachi - Service (Beehive),Steward,11,พ้นสภาพ,53,5,โสด,0,10617,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Commis III,11,ปัจจุบัน,49,5,โสด,0,11897,,C
+ผู้จัดการ,เพศหญิง,Project Management (Department),Project Management,Project Management,Manager - Administrative,5,ปัจจุบัน,45,5,โสด,0,44084,ปริญญาตรี,A
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,35,5,โสด,0,13792,,C
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Commis III,11,พ้นสภาพ,31,5,แต่งงาน,0,11000,,C
+หัวหน้างาน,เพศหญิง,The Coffee group (Department),Admin - The Coffee,Admin - The Coffee,Marketing Executive,7,พ้นสภาพ,28,5,โสด,0,20948,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Set up Officer,9,พ้นสภาพ,28,5,โสด,0,13261,,C
+พนักงาน,เพศชาย,Standard Control (Department),Implement Control,Implement Control,Implement Control Officer,8,พ้นสภาพ,37,5,แต่งงาน,1,21630,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Senior Officer - Network Support,8,พ้นสภาพ,29,5,โสด,0,25500,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,พ้นสภาพ,34,5,โสด,0,14322,,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis III,11,พ้นสภาพ,37,5,โสด,0,13225,,A
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Income Auditor,8,ปัจจุบัน,28,5,โสด,0,16944,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Restaurant Group (Department),Restaurant Marketing,Restaurant Marketing,Senior Restaurant Marketing Manager,4,ปัจจุบัน,41,5,โสด,0,84263,,A
+ผู้จัดการ,เพศชาย,Exhibition Project (Department),Trade Team,Trade A Center,Manager - VIP Buyer,5,ปัจจุบัน,36,5,โสด,0,59483,ปริญญาตรี,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,40,5,โสด,0,14060,,B
+พนักงาน,เพศชาย,City Management (Department),Development Area Control,Development Area Control,Senior Area Control Staff,10,พ้นสภาพ,33,5,โสด,0,14060,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,36,5,โสด,0,13787,,D
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,32,5,โสด,0,13787,,D
+หัวหน้างาน,เพศหญิง,IT and Communication (Department),IT Application Support,IT Application Support,Assistant Manager - IT Application Support,6,พ้นสภาพ,42,5,โสด,0,67200,ปริญญาตรี,B
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,53,5,แต่งงาน,1,16483,,B
+หัวหน้างาน,เพศหญิง,Procurement (Department),Procurement - Non Food,Procurement - Non Food,Assistant Manager - Procurement,6,พ้นสภาพ,40,5,โสด,0,50000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Exhibition Project (Department),Trade Team,Trade A,Operation Executive,8,พ้นสภาพ,33,5,โสด,0,20000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Waitress,9,ปัจจุบัน,30,6,โสด,0,14140,,D
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Banquet Captain,8,ปัจจุบัน,30,6,โสด,0,18025,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,41,5,โสด,1,15141,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,Senior Account Payable,8,ปัจจุบัน,27,5,โสด,0,17923,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Project Management (Department),Cost Control,Cost Control,Supervisor - Architecture & Structure Quantity,7,ปัจจุบัน,31,5,แต่งงาน,0,28655,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Suki - Service (Portal),Hong Kong Suki - Service (Portal),Captain,9,ปัจจุบัน,26,5,โสด,0,13000,,B
+พนักงาน,เพศชาย,Corporate Human Resources (Department),COE Center,COE Center,HR Content Editor,8,ปัจจุบัน,31,5,โสด,0,18300,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Management Office (Department),Management Office,Management Office,Call Center,9,พ้นสภาพ,27,5,โสด,0,13390,,B
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Service Operation Executive,9,พ้นสภาพ,41,5,โสด,0,15383,,C
+หัวหน้างาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Assistant Manager - Loss Prevention,6,ปัจจุบัน,46,5,โสด,0,47187,ปริญญาตรี,A
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,29,5,โสด,0,14060,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Kitchen,Retro Bar Cafe' - Kitchen,Commis II,10,ปัจจุบัน,27,5,โสด,0,13000,,C
+พนักงาน,เพศหญิง,City Management (Department),Sanitation,Sanitation,Service Staff,11,พ้นสภาพ,40,5,โสด,0,10615,,B
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis III,11,ปัจจุบัน,33,5,โสด,0,14060,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis III,11,ปัจจุบัน,32,5,แต่งงาน,1,13524,,C
+พนักงาน,เพศชาย,Exhibition Project (Department),Business Development,Business Development,Business Development Coordinator,8,พ้นสภาพ,29,5,โสด,0,15914,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Sales and Marketing (Department),Sales Administration,Sales Administration,Sales Coordinator,8,ปัจจุบัน,30,5,โสด,0,16974,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Facility Management & IT (Department),Tenant Coordination,Tenant Coordination,Supervisor - Tenant Coordinator,7,ปัจจุบัน,27,5,โสด,0,25000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Steward,11,ปัจจุบัน,56,5,โสด,0,12978,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Steward,11,ปัจจุบัน,55,5,โสด,0,12978,,B
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Night Coordinator,9,พ้นสภาพ,30,5,โสด,0,15605,,D
+พนักงาน,เพศหญิง,Restaurant Group (Department),EASE Cafe,EASE Cafe,Barista,9,ปัจจุบัน,25,5,โสด,0,14420,,C
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Transportation Coordinator,9,ปัจจุบัน,38,5,แต่งงาน,0,16905,,B
+ผู้จัดการ,เพศหญิง,Restaurant Group (Department),Breeze Cafe & Bar - Kitchen,Breeze Cafe & Bar - Kitchen,Head Chef,4,พ้นสภาพ,50,5,โสด,0,110210,,A
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),IMPACT Speed Park,IMPACT Speed Park,Marshal,9,ปัจจุบัน,31,5,โสด,0,14420,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Accounting,Accounting,A/P Officer,8,พ้นสภาพ,28,5,โสด,0,16645,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),VRM,VRM,VRM Executive,8,พ้นสภาพ,29,5,โสด,0,18035,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,พ้นสภาพ,37,5,โสด,0,14060,,B
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Cafe - Kitchen,Hong Kong Cafe - Kitchen,Commis II,10,ปัจจุบัน,31,5,โสด,0,13000,,D
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),Breeze Cafe & Bar - Kitchen,Breeze Cafe & Bar - Kitchen,Commis III,11,ปัจจุบัน,44,5,โสด,0,12360,,C
+หัวหน้างาน,เพศหญิง,Operations (Department),Housekeeping,Housekeeping,Chief Building,7,ปัจจุบัน,47,5,แต่งงาน,0,26265,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,ปัจจุบัน,44,5,แต่งงาน,0,13261,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Kitchen(Challenger),Tai Sho Tei - Kitchen(Challenger),Commis III,11,ปัจจุบัน,49,5,โสด,0,12128,,B
+หัวหน้างาน,เพศชาย,Finance & Accounting (Department),FBU_Finance and Accounting2,FBU_Finance and Accounting2,Assistant Manager - Reporting,6,พ้นสภาพ,54,5,โสด,0,32000,ปริญญาตรี,D
+พนักงาน,เพศชาย,City Management (Department),Landscape & Sanitation,Landscape & Sanitation,Service Staff Landscape & Sanitation,11,ปัจจุบัน,35,5,แต่งงาน,0,13792,,C
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior Traffic and Security Staff (MTT),10,พ้นสภาพ,34,5,แต่งงาน,0,14060,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,30,5,โสด,0,13787,,D
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Government (Proactive),Government (Proactive),Assistant Manager - Sales,6,พ้นสภาพ,37,5,โสด,0,33290,ปริญญาตรี,B
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Captain,9,ปัจจุบัน,25,5,โสด,0,12120,,D
+พนักงาน,เพศหญิง,Corporate Communications (Department),Photo media & Visual,Photo media & Visual,Multimedia & Graphic Designer Executive,8,ปัจจุบัน,28,5,โสด,0,21630,ปริญญาตรี,B
+พนักงาน,เพศชาย,Management Office (Department),Management Office,Management Office,Driver,10,พ้นสภาพ,45,5,โสด,0,12000,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Service,10,พ้นสภาพ,53,5,โสด,0,12484,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Storekeeper,9,พ้นสภาพ,27,5,โสด,0,14140,,D
+พนักงาน,เพศชาย,Restaurant Group (Department),Retro Bar Cafe' - Service,Retro Bar Cafe' - Service,Bartender,10,พ้นสภาพ,29,5,โสด,0,12120,,D
+พนักงาน,เพศหญิง,Kitchen (Department),Fast Food Kitchen,Fast Food Kitchen,Commis III,11,ปัจจุบัน,52,5,แต่งงาน,2,13524,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Chef Office,Chef Office,Administrative Officer,9,พ้นสภาพ,28,5,โสด,0,16538,,B
+พนักงาน,เพศชาย,City Management (Department),City Traffic,City Traffic,Senior City Traffic Staff (Impact Area),10,พ้นสภาพ,27,5,โสด,0,13787,,D
+พนักงาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),IMPACT Fitness,IMPACT Fitness,Personal Trainer,8,ปัจจุบัน,29,5,โสด,0,16029,ปริญญาตรี,A
+พนักงาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),Personal Training,Personal Training,Personal Trainer,8,พ้นสภาพ,31,5,โสด,0,16029,ปริญญาตรี,D
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Portal),Tsubohachi - Service (Portal),Service,10,พ้นสภาพ,25,5,โสด,0,11000,,B
+หัวหน้างาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Chef de Partie,7,ปัจจุบัน,48,5,โสด,1,28088,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis III,11,พ้นสภาพ,44,5,โสด,0,13792,,C
+พนักงาน,เพศหญิง,Kitchen (Department),European Kitchen,European Kitchen,Commis III,11,ปัจจุบัน,25,5,โสด,0,14060,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Cashier (Cash Card),Cashier (Cash Card),Cashier (Cash Card),10,ปัจจุบัน,41,5,โสด,0,13792,,C
+พนักงาน,เพศชาย,Operations (Department),Set Up,Set Up,Driver,9,พ้นสภาพ,51,5,หม้าย,0,14060,,B
+พนักงาน,เพศชาย,Operations (Department),Audio Visual,Audio Visual,Audio Visual Operator,9,ปัจจุบัน,31,5,โสด,0,16538,,B
+พนักงาน,เพศชาย,Operations (Department),Housekeeping,Housekeeping,Linen & Uniform Attendant,11,ปัจจุบัน,38,5,โสด,0,12484,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Terrazza - Service,Terrazza - Service,Service,10,ปัจจุบัน,26,5,โสด,0,11897,,B
+พนักงาน,เพศหญิง,Facility Management & IT (Department),Administration (FM),Administration (FM),Senior Officer - Administrative,8,ปัจจุบัน,29,5,โสด,0,14060,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Reactive),Corporate & Media (Reactive),Assistant Manager - Sales,6,พ้นสภาพ,36,5,โสด,0,36230,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Portal),Tsubohachi - Kitchen (Portal),Steward,11,ปัจจุบัน,49,5,แต่งงาน,0,11666,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Future Park),Tsubohachi - Kitchen (Future Park),Steward,11,พ้นสภาพ,53,5,แต่งงาน,0,10815,,B
+ผู้จัดการ,เพศชาย,Restaurant Group (Department),Restaurant Group,Restaurant Group,Manager - Restaurant Support,5,ปัจจุบัน,53,5,แต่งงาน,0,57245,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Suki - Service (Portal),Hong Kong Suki - Service (Portal),Service,10,ปัจจุบัน,24,5,โสด,0,12128,,B
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Coordinator - Shopping Mall,8,ปัจจุบัน,35,5,โสด,0,21614,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis III,11,ปัจจุบัน,38,4,แต่งงาน,2,13792,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Pastry Kitchen,Pastry Kitchen,Commis III,11,พ้นสภาพ,27,4,แต่งงาน,1,13792,,C
+หัวหน้างาน,เพศหญิง,Standard Control (Department),Quality Assurance & Document Control,Quality Assurance & Document Control,Supervisor - QA,7,ปัจจุบัน,35,4,โสด,0,33527,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Food & Beverage (Department),Catering,Catering,Catering Coordinator,9,ปัจจุบัน,36,4,โสด,0,14853,,C
+พนักงาน,เพศหญิง,City Management (Department),City Traffic and Security,City Traffic and Security,Senior Staff City Traffic and Security,10,ปัจจุบัน,28,4,โสด,0,13650,,B
+หัวหน้างาน,เพศชาย,Sales and Marketing (Department),Corporate & Media (Reactive),Corporate & Media (Reactive),Sales Executive,7,ปัจจุบัน,30,4,โสด,0,23690,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),International Exhibition & Convention (Pro),International Exhibition & Convention (Pro),Assistant Manager - Sales,6,ปัจจุบัน,36,4,โสด,0,33600,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Service,Flann Impact - Service,Waitress,10,ปัจจุบัน,28,4,โสด,0,11770,,A
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),Uwajima - Service,Uwajima - Service,Assistant Manager - Restaurant,7,ปัจจุบัน,40,4,โสด,1,26250,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,พ้นสภาพ,32,4,โสด,0,23100,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,ปัจจุบัน,27,4,โสด,0,16800,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Portal),Tsubohachi - Service (Portal),Service,10,พ้นสภาพ,42,4,โสด,0,11000,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Supervisor Service,8,ปัจจุบัน,27,4,โสด,0,16800,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Corporate Communications (Department),Photo media & Visual,Photo media & Visual,Multimedia & Graphic Designer Executive,8,ปัจจุบัน,28,4,โสด,0,23000,ปริญญาตรี,A
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Corporate & Media (Reactive),Corporate & Media (Reactive),Assistant Manager - Sales,6,ปัจจุบัน,42,4,โสด,0,33990,ปริญญาตรี,C
+ผู้จัดการ,เพศหญิง,Sales and Marketing (Department),Government (Proactive),Government (Proactive),Senior Manager - Sales,4,ปัจจุบัน,44,4,แต่งงาน,0,88000,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Steward,11,ปัจจุบัน,45,4,หย่า,0,12360,,C
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Commis III,11,ปัจจุบัน,23,4,โสด,0,13000,,B
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,Commis II,10,ปัจจุบัน,28,4,โสด,0,15000,,C
+พนักงาน,เพศชาย,Food & Beverage (Department),Beverage (Service),Beverage (Service),Bar Waiter,9,ปัจจุบัน,34,4,โสด,0,14140,,D
+พนักงาน,เพศชาย,Food & Beverage (Department),Beverage (Service),Beverage (Service),Bar Waiter,9,ปัจจุบัน,27,4,โสด,0,14420,,C
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Hong Kong Suki - Kitchen (Portal),Hong Kong Suki - Kitchen (Portal),Commis III,11,พ้นสภาพ,22,4,โสด,0,13000,,D
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Receiving,Receiving,Receiving Officer,9,ปัจจุบัน,28,4,โสด,0,14420,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Receiving,Receiving,Receiving Officer,9,ปัจจุบัน,32,4,โสด,0,15750,,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Store,Store,Storekeeper,9,พ้นสภาพ,41,4,โสด,0,15750,,B
+พนักงาน,เพศชาย,Finance & Accounting (Department),Operation Cashier,Operation Cashier,Cashier Officer,9,ปัจจุบัน,26,4,โสด,0,15500,,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance,Finance,Cashier (Cash Card),10,ปัจจุบัน,26,4,โสด,0,13390,,C
+พนักงาน,เพศชาย,Operations (Department),Transportation,Transportation,Shuttle bus driver,11,พ้นสภาพ,49,4,หย่า,0,12840,,A
+พนักงาน,เพศหญิง,Real Estate (Department),Real Estate Shopping Mall,Real Estate Shopping Mall,Client Service,8,ปัจจุบัน,40,4,โสด,0,21000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Exhibition Project (Department),Business Development,Business Development,Business Development Executive,8,พ้นสภาพ,27,4,โสด,0,25750,ปริญญาตรี,C
+พนักงาน,เพศชาย,Standard Control (Department),Safety,Safety,Safety Officer,8,พ้นสภาพ,28,4,โสด,0,22050,ปริญญาตรี,B
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,พ้นสภาพ,39,4,หย่า,1,23690,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Clerk,10,ปัจจุบัน,26,4,โสด,0,13390,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Assets,Assets,Assets Officer,9,พ้นสภาพ,32,4,โสด,0,15450,,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),IT Network Exhibition Support,IT Network Exhibition Support,Officer - Network,9,ปัจจุบัน,33,4,โสด,0,20330,,A
+พนักงาน,เพศหญิง,Facility Management & IT (Department),IT Cost & Support,IT Cost & Support,Officer - Cost & Support,9,ปัจจุบัน,35,4,โสด,0,18025,,C
+พนักงาน,เพศหญิง,Operations (Department),Service Operation,Service Operation,Service Operation Executive,8,พ้นสภาพ,31,4,โสด,0,16800,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Marketing,Marketing,Manager - Marketing,6,พ้นสภาพ,34,4,โสด,0,46350,ปริญญาตรี,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Store,Store,Storekeeper,9,ปัจจุบัน,30,4,โสด,0,17510,,C
+พนักงาน,เพศชาย,Corporate Communications (Department),Creative & Graphic Design,Creative & Graphic Design,Multimedia Coordinator,8,พ้นสภาพ,28,4,โสด,0,20000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Operations (Department),Loss Prevention Control,Loss Prevention Control,Senior Loss Prevention Officer,8,ปัจจุบัน,47,4,แต่งงาน,2,18897,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Facility Management (Department),Cosmo Bazaar,Cosmo Bazaar,Supervisor - Cosmo Bazaar,7,พ้นสภาพ,57,4,โสด,0,26000,ปริญญาตรี,D
+พนักงาน,เพศชาย,Operations (Department),Service Operation,Service Operation,Night Coordinator,9,พ้นสภาพ,33,4,โสด,0,15605,,D
+พนักงาน,เพศหญิง,Corporate Human Resources (Department),People Development,People Development,People Development Executive,8,ปัจจุบัน,27,4,โสด,0,24000,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),Cosmo Office Park,Cosmo Office Park,Assistant Manager – Building Management,6,พ้นสภาพ,51,4,โสด,0,36050,ปริญญาตรี,C
+พนักงาน,เพศชาย,Human Resources (Department),HR Business Solutions,HR Business Solutions,HR Business Solutions Executive,8,พ้นสภาพ,34,4,โสด,0,21000,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Sales and Marketing (Department),Marketing,Marketing,Marketing Executive,7,พ้นสภาพ,28,4,โสด,0,18540,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Sales and Marketing (Department),Sales Administration,Sales Administration,Sales Coordinator,8,ปัจจุบัน,27,4,โสด,0,15450,ปริญญาตรี,C
+ผู้จัดการ,เพศชาย,City Management (Department),City Management,City Management,Senior Manager City Service,4,ปัจจุบัน,32,4,โสด,0,44100,,B
+พนักงาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade B2,Sales Executive,8,ปัจจุบัน,29,4,โสด,0,19570,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Exhibition Project (Department),Trade Team,Trade B4,Sales Executive,8,ปัจจุบัน,26,4,โสด,0,21630,ปริญญาตรี,C
+พนักงาน,เพศชาย,Facility Management & IT (Department),Mechanic & Kitchen,Mechanic & Kitchen,Mechanic Technician,9,ปัจจุบัน,27,4,โสด,0,14935,,C
+พนักงาน,เพศหญิง,Corporate Communications (Department),Corporate Communications,Corporate Communications,Public Relations Executive,8,พ้นสภาพ,32,4,โสด,0,32960,ปริญญาตรี,C
+หัวหน้างาน,เพศชาย,Facility Management & IT (Department),IT System & Helpdesk,IT System & Helpdesk,Supervisor - Network and Helpdesk,7,พ้นสภาพ,38,4,โสด,0,35700,ปริญญาตรี,B
+หัวหน้างาน,เพศหญิง,Sales and Marketing (Department),Government (Reactive),Government (Reactive),Assistant Manager - Sales,6,พ้นสภาพ,48,4,หย่า,0,41200,ปริญญาตรี,C
+หัวหน้างาน,เพศหญิง,Exhibition Project (Department),Consumer Team,Consumer Team Center,Graphic Designer,7,ปัจจุบัน,30,4,โสด,0,26250,ปริญญาตรี,B
+ผู้จัดการ,เพศชาย,Sales and Marketing (Department),Exhibition (Local) - Proactive,Exhibition (Local) - Proactive,Senior Sales Manager - Exhibition,4,ปัจจุบัน,43,4,โสด,0,101000,,D
+พนักงาน,เพศหญิง,Management Office (Department),Corporate Affairs,Corporate Affairs,Administrative Officer,9,พ้นสภาพ,28,4,โสด,0,13390,,C
+ผู้จัดการ,เพศหญิง,Corporate Human Resources (Department),HR Business Solutions,HR Business Solutions,Manager - HR Business Solutions,5,ปัจจุบัน,40,4,แต่งงาน,2,76400,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Operations (Department),Transportation,Transportation,Shuttle bus driver,11,พ้นสภาพ,44,4,โสด,0,12360,,C
+พนักงาน,เพศหญิง,Corporate Communications (Department),Website and Social Media,Website and Social Media,Web Developer,8,ปัจจุบัน,27,4,โสด,0,18900,ปริญญาตรี,B
+พนักงาน,เพศชาย,Facility Management & IT (Department),Cosmo Office Park,Cosmo Office Park,Technician (Office Building),9,พ้นสภาพ,25,4,โสด,0,15450,,C
+หัวหน้างาน,เพศชาย,Exhibition Project (Department),Trade Team,Trade A1,Senior Executive - Marketing,7,พ้นสภาพ,28,4,โสด,0,35000,ปริญญาตรี,A
+หัวหน้างาน,เพศชาย,Corporate Human Resources (Department),COE Center,COE Center,Employer Branding Supervisor,7,ปัจจุบัน,29,4,โสด,0,42000,ปริญญาตรี,B
+พนักงาน,เพศหญิง,Standard Control (Department),Quality Assurance,Quality Assurance,QA Officer,9,ปัจจุบัน,35,4,โสด,0,21000,,B
+หัวหน้างาน,เพศหญิง,Corporate Human Resources (Department),Total Rewards Management,Total Rewards Management,Assistant Manager - Total Rewards Management,6,ปัจจุบัน,34,4,โสด,0,45150,ปริญญาตรี,B
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hei Yin - Kitchen,Hei Yin - Kitchen,Commis I,9,ปัจจุบัน,28,4,โสด,0,13000,ปริญญาตรี,C
+พนักงาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Hong Kong Fisherman - Kitchen,Hong Kong Fisherman - Kitchen,Commis III,11,ปัจจุบัน,25,4,โสด,0,13000,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),ISAN JIM JOOM - Lakefront - Kitchen,ISAN JIM JOOM - Lakefront - Kitchen,Commis II,10,พ้นสภาพ,34,4,โสด,0,13650,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,32,4,โสด,0,13650,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,26,4,โสด,0,13130,,D
+หัวหน้างาน,เพศชาย,IMPACT Lake Front (Department),Jackie Seafood - Kitchen,Jackie Seafood - Kitchen,Chopper II,7,ปัจจุบัน,31,4,โสด,0,23000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,พ้นสภาพ,38,4,โสด,0,13390,,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Uwajima - Kitchen,Uwajima - Kitchen,Commis III,11,ปัจจุบัน,27,4,โสด,0,11330,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,พ้นสภาพ,43,4,โสด,2,11000,,B
+พนักงาน,เพศหญิง,The Coffee group (Department),The coffee Academics - Kitchen (MEGA Bangna),The coffee Academics - Kitchen (MEGA Bangna),Kitchen Staff,9,ปัจจุบัน,30,4,โสด,0,12000,มัธยมศึกษาตอนปลาย,D
+พนักงาน,เพศชาย,Restaurant Group (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Service,10,พ้นสภาพ,31,4,โสด,0,11000,,D
+พนักงาน,เพศชาย,Restaurant Group (Department),ISAN JIM JOOM - Lakefront - Service,ISAN JIM JOOM - Lakefront - Service,Captain,9,พ้นสภาพ,31,4,โสด,0,15750,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),ISAN@ARENA - Service,ISAN@ARENA - Service,Service,10,ปัจจุบัน,25,4,โสด,0,11330,,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Commis II,10,ปัจจุบัน,25,4,โสด,0,12000,,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Commis III,11,ปัจจุบัน,29,4,โสด,0,12600,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Suki - Service (Portal),Hong Kong Suki - Service (Portal),Service,10,พ้นสภาพ,24,4,โสด,0,11330,,C
+พนักงาน,เพศหญิง,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Commis III,11,ปัจจุบัน,34,4,โสด,0,13000,,C
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),ISAN JIM JOOM - Kitchen,ISAN JIM JOOM - Kitchen,Commis III,11,ปัจจุบัน,39,4,โสด,0,12840,,A
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Service(Challenger),Tai Sho Tei - Service(Challenger),Service,10,พ้นสภาพ,24,4,โสด,0,11330,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Hong Kong Fisherman - Service,Hong Kong Fisherman - Service,Captain,9,ปัจจุบัน,37,4,แต่งงาน,2,11550,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Retro Bar Cafe' - Kitchen,Retro Bar Cafe' - Kitchen,Commis III,11,พ้นสภาพ,58,4,หม้าย,0,11000,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tai Sho Tei - Service(Challenger),Tai Sho Tei - Service(Challenger),Service,10,พ้นสภาพ,25,4,โสด,0,11000,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Beverage Bar,Beverage Bar,Bar Waitress,10,พ้นสภาพ,29,4,โสด,0,11330,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Beverage Bar,Beverage Bar,Barista,9,ปัจจุบัน,26,4,โสด,0,14420,,C
+พนักงาน,เพศชาย,IMPACT Tennis Academy & Sport Club (Dep.),IMPACT Fitness,IMPACT Fitness,Grounds-person,11,ปัจจุบัน,43,4,โสด,0,11330,,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Chef de Partie,8,พ้นสภาพ,46,4,โสด,1,20200,ปริญญาตรี,D
+พนักงาน,เพศชาย,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,33,4,โสด,1,14980,,A
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis II,10,ปัจจุบัน,23,4,โสด,0,11550,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Account,Account,Account Payable,8,ปัจจุบัน,27,4,โสด,0,15450,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Procurement (Department),Administration,Administration,Administrative Officer,9,ปัจจุบัน,43,4,โสด,0,15450,,C
+พนักงาน,เพศชาย,Finance & Accounting (Department),Costing,Costing,Beverage Cost Officer,9,พ้นสภาพ,28,4,โสด,0,15450,,C
+พนักงาน,เพศหญิง,Food & Beverage (Department),Banquet - Service,Banquet - Service,Waitress,9,ปัจจุบัน,40,4,โสด,0,14980,,A
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Beehive),Tsubohachi - Kitchen (Beehive),Commis III,11,พ้นสภาพ,26,4,โสด,0,11330,,C
+หัวหน้างาน,เพศหญิง,IMPACT Lake Front (Department),ISAN JIM JOOM - Service,ISAN JIM JOOM - Service,Manager - Restaurant,6,ปัจจุบัน,47,4,โสด,1,36380,ปริญญาตรี,A
+ผู้จัดการ,เพศหญิง,Corporate Human Resources (Department),HR Business Solutions,HR Business Solutions,Manager - HR Business Solutions,5,ปัจจุบัน,41,4,แต่งงาน,1,65000,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Commis III,11,พ้นสภาพ,31,4,โสด,0,11000,,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Commis III,11,ปัจจุบัน,30,4,โสด,0,11330,,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Kitchen(The Promenade),Tsubohachi - Kitchen(The Promenade),Steward,11,ปัจจุบัน,49,4,โสด,0,10530,,B
+พนักงาน,เพศหญิง,Finance & Accounting (Department),Finance2,Finance2,Cashier,9,ปัจจุบัน,30,4,โสด,0,13390,,C
+หัวหน้างาน,เพศชาย,IMPACT Lake Front (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Manager - Restaurant,6,ปัจจุบัน,45,4,แต่งงาน,0,34240,ปริญญาตรี,A
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,34,4,โสด,1,15398,,C
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis II,10,ปัจจุบัน,23,4,โสด,0,15697,,B
+พนักงาน,เพศหญิง,Kitchen (Department),Thai Kitchen,Thai Kitchen,Commis III,11,ปัจจุบัน,36,4,โสด,1,13390,,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Flann Impact - Service,Flann Impact - Service,Waitress,10,ปัจจุบัน,27,4,โสด,0,11550,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Uwajima - Lake side - Service,Uwajima - Lake side - Service,Hostess,9,พ้นสภาพ,29,4,โสด,0,11550,,B
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Uwajima - Lake side - Service,Uwajima - Lake side - Service,Service,10,พ้นสภาพ,26,4,โสด,0,11550,,B
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),IMPACT Speed Park,IMPACT Speed Park,Marshal,9,ปัจจุบัน,29,4,โสด,0,12360,,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Retro Bar Cafe' - Service,Retro Bar Cafe' - Service,Bartender,10,ปัจจุบัน,24,4,โสด,0,12360,,C
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),Breeze Cafe & Bar - Service,Breeze Cafe & Bar - Service,Bar Captain,9,ปัจจุบัน,29,4,แต่งงาน,0,15000,,B
+พนักงาน,เพศหญิง,Restaurant Group (Department),Jackie Seafood - Service,Jackie Seafood - Service,Steward,11,พ้นสภาพ,53,4,โสด,0,12360,,C
+พนักงาน,เพศชาย,Restaurant Group (Department),Flann Impact - Kitchen,Flann Impact - Kitchen,Commis III,11,ปัจจุบัน,27,4,โสด,0,12360,,C
+หัวหน้างาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service (Portal),Tsubohachi - Service (Portal),Manager - Restaurant,6,ปัจจุบัน,41,4,โสด,2,33600,ปริญญาตรี,B
+หัวหน้างาน,เพศชาย,Corporate Human Resources (Department),HR Business Solutions,HR Business Solutions,HR Business Solutions Supervisor,7,พ้นสภาพ,33,4,โสด,0,33990,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Restaurant Group (Department),Manorah - Kitchen,Manorah - Kitchen,Steward,11,ปัจจุบัน,47,4,โสด,2,12600,,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Nihonmachi),Tsubohachi - Kitchen (Nihonmachi),Commis III,10,พ้นสภาพ,27,4,โสด,0,11000,,D
+หัวหน้างาน,เพศชาย,Corporate Human Resources (Department),COE Center,COE Center,HR Innovation Project Supervisor,7,พ้นสภาพ,39,4,แต่งงาน,0,39900,ปริญญาตรี,B
+พนักงาน,เพศชาย,Japanese Restaurant Group (Department),Tsubohachi - Kitchen (Nihonmachi),Tsubohachi - Kitchen (Nihonmachi),Commis II,10,พ้นสภาพ,31,4,โสด,0,11000,,D
+พนักงาน,เพศชาย,IMPACT Lake Front (Department),ISAN@ARENA - Kitchen,ISAN@ARENA - Kitchen,Commis III,11,ปัจจุบัน,28,4,โสด,0,12600,,B
+หัวหน้างาน,เพศชาย,Chinese Restaurant (Kitchen) (Department),Chinese Banquet Kitchen,Chinese Banquet Kitchen,Chopper II,7,พ้นสภาพ,27,4,โสด,0,23000,ปริญญาตรี,C
+พนักงาน,เพศหญิง,Japanese Restaurant Group (Department),Tsubohachi - Service(The Promenade),Tsubohachi - Service(The Promenade),Service,10,ปัจจุบัน,23,4,โสด,0,11550,,B
+พนักงาน,เพศหญิง,IMPACT Lake Front (Department),IMPACT Speed Park,IMPACT Speed Park,Cleaner,11,ปัจจุบัน,43,4,โสด,0,11550,,B
